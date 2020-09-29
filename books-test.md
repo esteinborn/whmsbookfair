@@ -1,3 +1,9 @@
+---
+layout: page
+title: Book Test
+permalink: /books-test/
+---
+
 <ul>
     {% for book in site.data.books %}
       <li>
