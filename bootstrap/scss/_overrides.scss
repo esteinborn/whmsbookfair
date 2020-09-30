@@ -2,10 +2,36 @@ $whms-red:  #b20838;
 //$whms-button: #2c353e;
 $whms-gray: #f5f6fa;
 
+$navbar-light-brand-color: rgba(0, 0, 0, 1);
 $primary:       $whms-red;
 // $secondary:     $whms-gray;
 $gray-200:      $whms-gray;
+$navbar-nav-link-padding-x: .5rem;
 
+nav .nav-item {
+  position: relative;
+}
+
+nav .active a::after,
+nav .nav-link:hover::after {
+  bottom: 0;
+  position: absolute;
+  display: block;
+  height: 4px;
+  width: 100%;
+  background-color: $primary;
+  content: "";
+  margin-left: -$navbar-nav-link-padding-x;
+}
+
+// .navbar-light .navbar-nav .nav-link:hover,
+// .navbar-light .navbar-nav .nav-link:focus {
+//   color: 
+// }
+
+// .navbar-light .navbar-nav .nav-link {
+//   color: rgba(0, 0, 0, 1);
+// }
 
 footer {
   margin-top: 10rem;

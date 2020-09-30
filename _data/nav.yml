@@ -1,0 +1,21 @@
+links:
+
+  - title: Home
+    url: ./index.html
+    category: H
+
+  - title: Toddler/Primary
+    url: ./toddler-primary.html
+    category: P
+
+  - title: Lower El
+    url: ./lowerel.html
+    category: LE
+
+  - title: Upper El
+    url: ./upperel.html
+    category: UE
+
+  - title: Middle School
+    url: ./middleschool.html
+    category: M
