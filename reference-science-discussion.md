@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Toddler & Primary Book Discussion
-permalink: /:path/toddler-primary-discussion.html
-category: P
+title: Reference & Science Book Discussion
+permalink: /:path/reference-science-discussion.html
+category: AH
 ---
 
 <div class="row">
@@ -11,7 +11,7 @@ category: P
     <div class="jumbotron bg-transparent">
       <h1 class="display-4">{{ page.title }}</h1>
       <hr class="my-4">
-      <p class="lead">Welcome to our Discussion page for Toddler &amp; Primary books. This is where our Book Fair chairs and librarian will be posting about the Toddler &amp; Primary books, including the featured books listed in the right column of this page. We hope you join us, we're hoping the discussions can gather our community like the standard Book Fair has in the past.</p>
+      <p class="lead">Welcome to our Discussion page for Reference &amp; Science books. This is where our Book Fair chairs and librarian will be posting about the Reference &amp; Science books, including the featured books listed in the right column of this page. We hope you join us, we're hoping the discussions can gather our community like the standard Book Fair has in the past.</p>
     </div>
   </div>
 </div>

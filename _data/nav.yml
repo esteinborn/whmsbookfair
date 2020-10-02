@@ -19,3 +19,11 @@ links:
   - title: Middle School
     url: ./middleschool.html
     category: M
+
+  - title: Activities & Hobbies
+    url: ./activity-hobby.html
+    category: AH
+
+  - title: Reference & Science
+    url: ./reference-science.html
+    category: RS
