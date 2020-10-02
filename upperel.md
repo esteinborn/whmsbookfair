@@ -19,7 +19,7 @@ category: UE
     <div class="card mb-5 w-75 mx-auto">
       <div class="row no-gutters">
         <div class="col-md-4">
-          <a class="stretched-link" href="./upperel-discussion.html"><img src="./images/discussion.jpg" class="card-img" alt="Group discussing different topics"></a>
+          <a class="stretched-link" href="./upperel-discussion.html"><img src="./images/ue-discussion.jpg" class="card-img" alt="Group discussing different topics"></a>
         </div>
         <div class="col-md-8">
           <div class="card-body">
