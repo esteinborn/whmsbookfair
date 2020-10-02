@@ -64,7 +64,7 @@ category: H
     <img src="./images/book/9781465489654.jpg" class="card-img-top" alt="Book Thumbnail">
       <div class="card-body">
         <h5 class="card-title">Activities &amp; Hobbies</h5>
-        <a href="./middleschool.html" class="btn btn-lg btn-outline-primary stretched-link">View Activity &amp; Hobby Books</a>
+        <a href="./activity-hobby.html" class="btn btn-lg btn-outline-primary stretched-link">View Activity &amp; Hobby Books</a>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@ category: H
     <img src="./images/book/9781782858331.jpg" class="card-img-top" alt="Book Thumbnail">
       <div class="card-body">
         <h5 class="card-title">Research &amp; Science</h5>
-        <a href="./middleschool.html" class="btn btn-lg btn-outline-primary stretched-link">View Research &amp; Science Books</a>
+        <a href="./reference-science.html" class="btn btn-lg btn-outline-primary stretched-link">View Reference &amp; Science Books</a>
       </div>
     </div>
   </div>
