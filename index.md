@@ -18,7 +18,6 @@ category: H
       <h2>Ordering</h2>
       <p>Once you're ready to purchase, the pages here links directly to Open Door's website where you can put together your cart. Please write in the notes section that they are a part of the WHMS Book Fair, and then check out. You need to be sure to add the note, part of the WHMS Book Fair, to the cart so we can track your order, and deliver the order to school.</p>
       <p>Please note that because of the pandemic possibly causing erratic disruptions in the production and delivery chains we can't guarantee delivery before the holidays. But we're doing everything we can, including holding the Book Fair early, to give us the best chance at quick order turn arounds.</p>
-      <p>We will be handing out deliveries of books at WHMS during carline as they become available. We'll have a spot at the turnaround on the way down from carline where we'll place your books in your car.</p>
     </div>
   </div>
 </div>
