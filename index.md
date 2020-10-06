@@ -14,10 +14,15 @@ category: H
       <hr class="my-4">
       <p>In the following pages you can see previews of the books we're looking at this year. And we'll talk about them, together! Join us on the pages separated by school level, activities, and reference. Our partners at Open Door have curated a list of amazing and popular books for us this year, and you can find them all, safely, here! Once you find them we have the links to buy them from Open Door, all to help promote reading AND raise money for new books for our school! This year proceeds will again be focused on purchasing books for the new library, so all classes can enjoy them.</p>
       <h2>Community Discussions</h2>
-      <p>Our procedure this year will be browse and discuss the books on this site, we welcome everyone to discuss the books with the Book Fair chairs and the librarian in the comments section! Featured books will be highlighted on the discussion page, but we have whole pages to browse for each level. And you can order anything from Open Door's site too.</p>
+      <p>Our procedure this year will be to browse and discuss the books on this site, we welcome everyone to discuss the books with the Book Fair chairs and the librarian in the comments section! Featured books will be highlighted on the discussion page, but we have whole pages to browse for each level, plus science, reference, and activities.</p>
       <h2>Ordering</h2>
-      <p>Once you're ready to purchase, the pages here links directly to Open Door's website where you can put together your cart. Please write in the notes section that they are a part of the WHMS Book Fair, and then check out. You need to be sure to add the note, part of the WHMS Book Fair, to the cart so we can track your order, and deliver the order to school.</p>
-      <p>Please note that because of the pandemic possibly causing erratic disruptions in the production and delivery chains we can't guarantee delivery before the holidays. But we're doing everything we can, including holding the Book Fair early, to give us the best chance at quick order turn arounds.</p>
+      <p>Once you’re ready to purchase, the pages here links directly to Open Door’s website where you can put together your cart.</p>
+      <ul>
+        <li>Please note we do have to charge sales tax.</li>
+        <li>Please write <strong>"Part of the WHMS Book Fair"</strong> in the Order Comments section before check out. This allows us to track your order and ensure it is delivered to school.</li>
+        <li>Please ignore the Pick-Up Options section. They WILL NOT CHARGE FOR DELIVERY. Books will be delivered to school for disbursement to families.</li>
+      </ul>
+      <p>Please note that due to the pandemic we cannot guarantee delivery before the holidays. We’re doing everything we can, including holding the Book Fair early, to give you the best chance at a quick order turn around.</p>
     </div>
   </div>
 </div>
