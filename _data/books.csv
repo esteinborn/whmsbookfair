@@ -1,227 +1,304 @@
-Product Number,title,author,Total Qty Ordered,price,Discount,Total Amount,age,link,image,,featured
-9781250222213,Agent Moose,O'Hara  Mo,1,10.99,0,10.99,LE,https://www.opendoor-bookstore.com/book/9781250222213,./images/book/9781250222213.jpg,,yes
-9781605375199,All Along the River,Weightman  Magnus,1,9.95,0,9.95,LE,https://www.opendoor-bookstore.com/book/9781605375199,./images/book/9781605375199.jpg,,yes
-,,,,,,,,,,,
-9781524717544,Child of the Universe,Jayawardhana  Ray,1,17.99,0,17.99,LE,https://www.opendoor-bookstore.com/book/9781524717544,./images/book/9781524717544.jpg,,yes
-9780525515074,Dead Voices,Arden  Katherine,1,8.99,0,8.99,UE,https://www.opendoor-bookstore.com/book/9780525515074,./images/book/9780525515074.jpg,,yes
-9781534479845,Keeper of the Lost Cities Illustrated & Annotated,Messenger  Shannon,1,9.99,0,9.99,UE,https://www.opendoor-bookstore.com/book/9781534479845,./images/book/9781534479845.jpg,,
-9780763645045,Mercy Watson to the Rescue,DiCamillo  Kate,1,6.99,0,6.99,LE,https://www.opendoor-bookstore.com/book/9780763645045,./images/book/9780763645045.jpg,,
-9781515872900,Sadiq and the Explorers,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515872900,./images/book/9781515872900.jpg,,
-9781515845669,Sadiq and the Fun Run,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515845669,./images/book/9781515845669.jpg,,
-9781515845683,Sadiq and the Pet Problem,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515845683,./images/book/9781515845683.jpg,,
-9781515872887,Sadiq and the Ramadan Gift,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515872887,./images/book/9781515872887.jpg,,
-9780593114544,She Persisted in Sports,Clinton  Chelsea,1,17.99,0,17.99,LE,https://www.opendoor-bookstore.com/book/9780593114544,./images/book/9780593114544.jpg,,
-9780525515043,Small Spaces,Arden  Katherine,1,8.99,0,8.99,UE,https://www.opendoor-bookstore.com/book/9780525515043,./images/book/9780525515043.jpg,,
-9781944211813,Illustoria: For Creative Kids and Their Grownups,Haidle  Elizabeth,1,16.00,0,16.00,AH,https://www.opendoor-bookstore.com/book/9781944211813,./images/book/9781944211813.jpg,,
-9780316495196,The Worry (Less) Book,Brian  Rachel,1,15.99,0,15.99,AH,https://www.opendoor-bookstore.com/book/9780316495196,./images/book/9780316495196.jpg,,
-9781782853329,Barefoot Books: Children of the World,Depalma  Kate,1,16.99,0,16.99,RS,https://www.opendoor-bookstore.com/book/9781782853329,./images/book/9781782853329.jpg,,yes
-9781631585579,A Kid's Guide to Money and Finance,Kunigis  Allan,1,9.99,0,9.99,RS,https://www.opendoor-bookstore.com/book/9781631585579,./images/book/9781631585579.jpg,,yes
-9781452156668,How to Write a Story,Messner  Kate,1,17.99,0,17.99,RS,https://www.opendoor-bookstore.com/book/9781452156668,./images/book/9781452156668.jpg,,
-9780316527156,Malala,Yousafzai  Malala,1,6.99,0,6.99,RS,https://www.opendoor-bookstore.com/book/9780316527156,./images/book/9780316527156.jpg,,yes
-9780500652220,Pop-Up Volcano!,Daugey  Fleur,1,29.95,0,29.95,RS,https://www.opendoor-bookstore.com/book/9780500652220,./images/book/9780500652220.jpg,,yes
-9780316307451,CatStronauts: Mission Moon,Brockington  Drew,1,7.99,0,7.99,LE UE,https://www.opendoor-bookstore.com/book/9780316307451,./images/book/9780316307451.jpg,,
-9781338535624,Dog Man: Grime and Punishment: From the Creator o,Pilkey  Dav,1,12.99,0,12.99,LE UE,https://www.opendoor-bookstore.com/book/9781338535624,./images/book/9781338535624.jpg,,
-9780063029583,Ivan & Friends 2-Book Collection,Applegate  Katherine,1,37.98,0,37.98,LE UE,https://www.opendoor-bookstore.com/book/9780063029583,./images/book/9780063029583.jpg,,
-9781536215151,Malamander,Taylor  Thomas,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9781536215151,./images/book/9781536215151.jpg,,
-9781338587258,Orientation (Marvel: Avengers Assembly #1),Chhibber  Preeti,1,13.99,0,13.99,LE UE,https://www.opendoor-bookstore.com/book/9781338587258,./images/book/9781338587258.jpg,,
-9781419749094,Rowley Jefferson's Awesome Friendly Adventure,Kinney  Jeff,1,14.99,0,14.99,LE UE,https://www.opendoor-bookstore.com/book/9781419749094,./images/book/9781419749094.jpg,,
-9781643750057,Skunk and Badger (Skunk and Badger 1),Timberlake   Amy,1,18.95,0,18.95,LE ,https://www.opendoor-bookstore.com/book/9781643750057,./images/book/9781643750057.jpg,,
-9780062839237,Stay,Pyron  Bobbie,1,6.99,0,6.99,LE UE,https://www.opendoor-bookstore.com/book/9780062839237,./images/book/9780062839237.jpg,,
-9781338677430,The Witches: The Graphic Novel,Dahl  Roald,1,14.99,0,14.99,LE UE,https://www.opendoor-bookstore.com/book/9781338677430,./images/book/9781338677430.jpg,,
-9781524853815,How to Draw a Mermaid and Other Cute Creatures,Mayo  Lulu,1,12.99,0,12.99,AH,https://www.opendoor-bookstore.com/book/9781524853815,./images/book/9781524853815.jpg,,yes
-9781454941224,How to Draw Cute Beasts,Nguyen  Angela,1,12.95,0,12.95,AH,https://www.opendoor-bookstore.com/book/9781454941224,./images/book/9781454941224.jpg,,yes
-9781839405877,Magical Unicorn Wordsearch,Finnegan  Ivy,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781839405877,./images/book/9781839405877.jpg,,
-9781684376421,The Highlights Book of Things to Do,Highlights,1,24.99,0,24.99,AH,https://www.opendoor-bookstore.com/book/9781684376421,./images/book/9781684376421.jpg,LOTS IN STOCK,yes
-9781465497864,The LEGO Games Book,Kosara  Tori,1,19.99,0,19.99,AH,https://www.opendoor-bookstore.com/book/9781465497864,./images/book/9781465497864.jpg,,
-9781604338720,The Super Duper Joke Book Volume 1,Pellowski  Michael,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781604338720,./images/book/9781604338720.jpg,,
-9781604339598,The Super Duper Joke Book Volume 2,Cider Mill Press,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781604339598,./images/book/9781604339598.jpg,,
-9781426337000,National Geographic Kids Puzzle Book of the World,Kids  National Geographic,1,6.99,0,6.99,AH RS,https://www.opendoor-bookstore.com/book/9781426337000,./images/book/9781426337000.jpg,,
-9781419742309,Everything You Need to Know When You Are 8,Miller  Kirsten,1,12.99,0,12.99,RS,https://www.opendoor-bookstore.com/book/9781419742309,./images/book/9781419742309.jpg,,
-9781419742323,Everything You Need to Know When You Are 9,Miller  Kirsten,1,12.99,0,12.99,RS,https://www.opendoor-bookstore.com/book/9781419742323,./images/book/9781419742323.jpg,,
-9781510757004,Learning STEM from Baseball,Ventura  Marne,1,7.99,0,7.99,RS,https://www.opendoor-bookstore.com/book/9781510757004,./images/book/9781510757004.jpg,,yes
-9781465499332,The Mysteries of the Universe,DK,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781465499332,./images/book/9781465499332.jpg,,
-9780593095614,What Is a Presidential Election?,Yacka  Douglas,1,7.99,0,7.99,RS,https://www.opendoor-bookstore.com/book/9780593095614,./images/book/9780593095614.jpg,,yes
-9781454942900,I Heart Kawaii,Thornton  Harry,1,12.95,0,12.95,AH,https://www.opendoor-bookstore.com/book/9781454942900,./images/book/9781454942900.jpg,,
-9780358164746,Crossover Graphic Novel ,Alexander  Kwame,1,12.99,0,12.99,M,https://www.opendoor-bookstore.com/book/9781328575494,./images/book/9781328575494.jpg,,yes
-,,,,,,,,,,,
-9781646140053,Elatsoe,Little Badger  Darcie,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781646140053,./images/book/9781646140053.jpg,,yes
-9780593175941,Escape Room,Stoffels  Maren,1,9.99,0,9.99,M,https://www.opendoor-bookstore.com/book/9780593175941,./images/book/9780593175941.jpg,,
-,,,,,,,,,,,
-9781338338843,Haunt Me,Alexander  K. R.,1,6.99,0,6.99,M,https://www.opendoor-bookstore.com/book/9781338338843,./images/book/9781338338843.jpg,,
-9781534421868,Hungry Hearts,Chapman  Elsie,1,11.99,0,11.99,M,https://www.opendoor-bookstore.com/book/9781534421868,./images/book/9781534421868.jpg,,
-9781338639933,K-pop Confidential,Lee  Stephan,1,9.99,0,9.99,M,https://www.opendoor-bookstore.com/book/9781338639933,./images/book/9781338639933.jpg,,
-9781594746031,Miss Peregrine's Home for Peculiar Children,Riggs  Ransom,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9781594746031,./images/book/9781594746031.jpg,,
-9780525647072,Pet,Emezi  Akwaeke,1,17.99,0,17.99,M,https://www.opendoor-bookstore.com/book/9780525647072,./images/book/9780525647072.jpg,,
-9781250180636,Renegades,Meyer  Marissa,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9781250180636,./images/book/9781250180636.jpg,,
-9780316453691,Stamped,Reynolds  Jason,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9780316453691,./images/book/9780316453691.jpg,LOTS IN STOCK,yes
-9781779504210,Superman Smashes the Klan,Yang  Gene Luen,1,16.99,0,16.99,M,https://www.opendoor-bookstore.com/book/9781779504210,./images/book/9781779504210.jpg,,
-,,,,,,,,,,,
-9781547603114,Watch Us Rise,Watson  RenÃ©e,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9781547603114,./images/book/9781547603114.jpg,,
-9780358131434,We Are Not Free,Chee  Traci,1,17.99,0,17.99,M,https://www.opendoor-bookstore.com/book/9780358131434,./images/book/9780358131434.jpg,,
-9780763690663,Alphamaniacs,Fleischman  Paul,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9780763690663,./images/book/9780763690663.jpg,,yes
-9780593110416,Antiracist Baby,Kendi  Ibram X.,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9780593110416,./images/book/9780593110416.jpg,,yes
-9781492638322,Bedtime for Sweet Creatures,Grimes   Nikki,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781492638322,./images/book/9781492638322.jpg,,yes
-9781682631454,Bedtime in the Jungle,Butler  John,1,7.95,0,7.95,P,https://www.opendoor-bookstore.com/book/9781682631454,./images/book/9781682631454.jpg,,yes
-9780399547645,Bunheads,Copeland  Misty,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9780399547645,./images/book/9780399547645.jpg,,yes
-9780525514510,Butts Are Everywhere,Stutzman  Jonathan,1,16.99,0,16.99,P,https://www.opendoor-bookstore.com/book/9780525514510,./images/book/9780525514510.jpg,,yes
-9780525553465,Can I Play Too?,Cotterill  Samantha,1,16.99,0,16.99,P,https://www.opendoor-bookstore.com/book/9780525553465,./images/book/9780525553465.jpg,,
-9780063012721,Dear Baby ,Rosenthal  Paris,1,18.99,0,18.99,P,https://www.opendoor-bookstore.com/book/9780063012721,./images/book/9780063012721.jpg,,
-9780892394135,Galapagos Girl,Arnold  Marsha Diane,1,19.95,0,19.95,P,https://www.opendoor-bookstore.com/book/9780892394135,./images/book/9780892394135.jpg,,
-9781338617993,Grumpycorn,McIntyre  Sarah,1,6.99,0,6.99,P,https://www.opendoor-bookstore.com/book/9781338617993,./images/book/9781338617993.jpg,,
-9781728236605,Heroes Wear Masks,Sesame Workshop,1,7.99,0,7.99,P,https://www.opendoor-bookstore.com/book/9781728236605,./images/book/9781728236605.jpg,,
-9781682632321,Izzy Gizmo,Jones  Pip,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9781682632321,./images/book/9781682632321.jpg,,
-9781250268204,Labyrinth: The ABC Storybook,Flowers  Luke,1,19.99,0,19.99,P,https://www.opendoor-bookstore.com/book/9781250268204,./images/book/9781250268204.jpg,,
-9781773213217,Llamas With Lemonade,Koultourides  Ariana,1,10.99,0,10.99,P,https://www.opendoor-bookstore.com/book/9781773213217,./images/book/9781773213217.jpg,,yes
-9781534466197,Looking for Smile,Tarlow  Ellen,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781534466197,./images/book/9781534466197.jpg,,
-9780735365346,Mindful Baby Board Book Set,Mudpuppy,1,14.99,0,14.99,P,https://www.opendoor-bookstore.com/book/9780735365346,./images/book/9780735365346.jpg,,
-9780316266628,The Alphabet's Alphabet,Harris  Chris,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9780316266628,./images/book/9780316266628.jpg,,
-9781452171913,The Bear and the Moon,Burgess  Matthew,1,18.99,0,18.99,P,https://www.opendoor-bookstore.com/book/9781452171913,./images/book/9781452171913.jpg,,
-9780316428385,The Office: A Day at Dunder Mifflin Elementary,Pearlman  Robb,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9780316428385,./images/book/9780316428385.jpg,,
-9781951511050,The Yuckiest Alphabet Book in the World,Novak  Margaret,1,12.99,0,12.99,P,https://www.opendoor-bookstore.com/book/9781951511050,./images/book/9781951511050.jpg,,
-9781536207019,This Is a Book of Shapes,Kraegel  Kenneth,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9781536207019,./images/book/9781536207019.jpg,,
-9781419742064,This Way  Charlie,Levis  Caron,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781419742064,./images/book/9781419742064.jpg,,
-9781499810080,Uncle Bobby's Wedding (2020),Brannen  Sarah S.,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781499810080,./images/book/9781499810080.jpg,,
-9781534453838,Unicorns Are the Worst!,Willan  Alex,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781534453838,./images/book/9781534453838.jpg,,
-9780593202555,We Are All Equal,Crumble  P.,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9780593202555,./images/book/9780593202555.jpg,,yes
-9781789502503,Search and Find: Dinosaurs,Stamper  Claire,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781789502503,./images/book/9781789502503.jpg,,
-9781646860623,A Gift for Amma,Sriram  Meera,1,8.99,0,8.99,P LE,https://www.opendoor-bookstore.com/book/9781646860623,./images/book/9781646860623.jpg,,
-9781481449946,And Tango Makes Three,Richardson  Justin,1,9.99,0,9.99,P LE,https://www.opendoor-bookstore.com/book/9781481449946,./images/book/9781481449946.jpg,,
-9780358252108,Becoming a Good Creature,Montgomery  Sy,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780358252108,./images/book/9780358252108.jpg,,yes
-9780062499615,Cece Loves Science,Derting  Kimberly,1,7.99,0,7.99,P LE,https://www.opendoor-bookstore.com/book/9780062499615,./images/book/9780062499615.jpg,,
-9781554533541,Chester's Masterpiece,Watt  Melanie,1,8.99,0,8.99,P LE,https://www.opendoor-bookstore.com/book/9781554533541,./images/book/9781554533541.jpg,,
-9780316562577,Don't Touch My Hair!,Miller  Sharee,1,7.99,0,7.99,P LE,https://www.opendoor-bookstore.com/book/9780316562577,./images/book/9780316562577.jpg,,yes
-9780593115350,Grandma's Gardens,Clinton  Hillary Rodham,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780593115350,./images/book/9780593115350.jpg,,
-9781534402317,Harlem Grown: How One Big Idea Transformed a Neig,Hillery  Tony,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781534402317,./images/book/9781534402317.jpg,,yes
-9781849766630,How the Stars Came To Be,Mistry  Poonam,1,17.95,0,17.95,P LE,https://www.opendoor-bookstore.com/book/9781849766630,./images/book/9781849766630.jpg,,
-9780525518778,I Am Every Good Thing,Barnes  Derrick,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780525518778,./images/book/9780525518778.jpg,,
-9781452137797,If You Come to Earth,Blackall  Sophie,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9781452137797,./images/book/9781452137797.jpg,,
-9781910328644,Last,Davies   Nicola,1,16.99,0,16.99,P LE,https://www.opendoor-bookstore.com/book/9781910328644,./images/book/9781910328644.jpg,,
-9781773062365,Loon,Griek  Susan Vande,1,12.95,0,12.95,P LE,https://www.opendoor-bookstore.com/book/9781773062365,./images/book/9781773062365.jpg,,
-9781524715502,Lost and Found Cat,Kuntz  Doug,1,7.99,0,7.99,P LE,https://www.opendoor-bookstore.com/book/9781524715502,./images/book/9781524715502.jpg,,
-9781984896537,Margaret's Unicorn,Smith  Briony May,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781984896537,./images/book/9781984896537.jpg,,
-9780884485551,Most People,Leannah  Michael,1,9.95,0,9.95,P LE,https://www.opendoor-bookstore.com/book/9780884485551,./images/book/9780884485551.jpg,,
-9781772781533,Pencil,Ingalls  Ann,1,12.95,0,12.95,P LE,https://www.opendoor-bookstore.com/book/9781772781533,./images/book/9781772781533.jpg,,
-9781771473279,Pierre & Paul: Avalanche!,Adderson  Caroline,1,16.95,0,16.95,P LE,https://www.opendoor-bookstore.com/book/9781771473279,./images/book/9781771473279.jpg,,
-9780358423324,Robobaby (signed edition),Wiesner  David,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780544987319,./images/book/9780544987319.jpg,,yes
-9781515872894,Sadiq and the Bridge Builders,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515872894,./images/book/9781515872894.jpg,,
-9781771646468,Stay  Little Seed,Valentini  Cristiana,1,17.95,0,17.95,P LE,https://www.opendoor-bookstore.com/book/9781771646468,./images/book/9781771646468.jpg,,
-9781984813787,The Cat Man of Aleppo,Shamsi-Basha  Karim,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781984813787,./images/book/9781984813787.jpg,,
-9780525555148,The Seed of Compassion,Dalai Lama,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780525555148,./images/book/9780525555148.jpg,,
-9781682632192,The Story Blanket,Wolff   Ferida,1,8.99,0,8.99,P LE,https://www.opendoor-bookstore.com/book/9781682632192,./images/book/9781682632192.jpg,,
-9780593115053,The Tiny Chef: And Da Mishing Weshipee Blook,Larsen  Rachel,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780593115053,./images/book/9780593115053.jpg,,
-9781773213880,The Truth About Wind,Hutchins  Hazel,1,18.95,0,18.95,P LE,https://www.opendoor-bookstore.com/book/9781773213880,./images/book/9781773213880.jpg,,
-9781481451482,When I Draw a Panda,Bates  Amy June,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781481451482,./images/book/9781481451482.jpg,,
-9780593123843,Wild Symphony,Brown  Dan,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780593123843,./images/book/9780593123843.jpg,,
-9781536217476,Will You Be My Friend?,McBratney  Sam,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781536217476,./images/book/9781536217476.jpg,,
-9781419746772,Feathered Serpent and the Five Suns,Tonatiuh  Duncan,1,16.99,0,16.99,P LE ,https://www.opendoor-bookstore.com/book/9781419746772,./images/book/9781419746772.jpg,,
-9780823444366,No Kimchi For Me!,Kim  Aram,1,8.99,0,8.99,P LE ,https://www.opendoor-bookstore.com/book/9780823444366,./images/book/9780823444366.jpg,,
-9781426338113,National Geographic Kids Cats and Dogs Super Stic,Kids  National Geographic,1,12.99,0,12.99,AH,https://www.opendoor-bookstore.com/book/9781426338113,./images/book/9781426338113.jpg,,
-9781635863192,Roaring  Rumbling Tattoo Dinosaurs,Gregory  Aaron John,1,7.95,0,7.95,AH,https://www.opendoor-bookstore.com/book/9781635863192,./images/book/9781635863192.jpg,,
-9781523502950,Paint by Sticker Kids: Beautiful Bugs,Workman Publishing,1,9.95,0,9.95,AH,https://www.opendoor-bookstore.com/book/9781523502950,./images/book/9781523502950.jpg,,
-9780500652299,The Big Sticker Book of Blooms,Zommer  Yuval,1,14.95,0,14.95,AH,https://www.opendoor-bookstore.com/book/9780500652299,./images/book/9780500652299.jpg,,
-9781782858331,Let's Celebrate!: Special Days Around the World,Depalma  Kate,1,16.99,0,16.99,RS,https://www.opendoor-bookstore.com/book/9781782858331,./images/book/9781782858331.jpg,,yes
-9781465490865,Sticker Encyclopedia Animals,DK,1,12.99,0,12.99,AH,https://www.opendoor-bookstore.com/book/9781465490865,./images/book/9781465490865.jpg,,
-9780525645931,The Bug Girl,Spencer  Sophia,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780525645931,./images/book/9780525645931.jpg,,
-9781523506880,Welcome to Jazz,Sloan  Carolyn,1,24.95,0,24.95,P AH,https://www.opendoor-bookstore.com/book/9781523506880,./images/book/9781523506880.jpg,,
-9781782853275,Mindful Kids: 50 Mindfulness Activities for Kindn,Stewart  Whitney,1,14.99,0,14.99,AH,https://www.opendoor-bookstore.com/book/9781782853275,./images/book/9781782853275.jpg,,yes
-9781616898984,Inventive Animals,Sourdais  Clementine,1,7.99,0,7.99,AH,https://www.opendoor-bookstore.com/book/9781616898984,./images/book/9781616898984.jpg,,
-9781499810875,My First Big Book of Bilingual Coloring Animals,little bee books,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781499810875,./images/book/9781499810875.jpg,,yes
-9781536204940,A Wish in the Dark,Soontornvat  Christina,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781536204940,./images/book/9781536204940.jpg,,yes
-9780545812573,George,Gino  Alex,1,7.99,0,7.99,UE MS,https://www.opendoor-bookstore.com/book/9780545812573,./images/book/9780545812573.jpg,,yes
-9781620143117,I Remember,Hopkins  Lee Bennett (EDT),1,19.95,0,19.95,UE,https://www.opendoor-bookstore.com/book/9781620143117,./images/book/9781620143117.jpg,,
-9781416983163,Kenny & the Book of Beasts,DiTerlizzi  Tony,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781416983163,./images/book/9781416983163.jpg,,
-9780316536776,Loretta Little Looks Back,Pinkney  Andrea Davis,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9780316536776,./images/book/9780316536776.jpg,,
-9781984850546,Pacey Packer: Unicorn Tracker Book 1,Phillipps  J.C.,1,12.99,0,12.99,UE,https://www.opendoor-bookstore.com/book/9781984850546,./images/book/9781984850546.jpg,,
-9781423141891,Percy Jackson & The Olympians,Riordan  Rick,1,89.99,0,89.99,UE,https://www.opendoor-bookstore.com/book/9781423141891,./images/book/9781423141891.jpg,,yes
-9780394820378,Phantom Tollbooth,Juster  Norton,1,8.99,0,8.99,UE,https://www.opendoor-bookstore.com/book/9780394820378,./images/book/9780394820378.jpg,,
-9781338048100,Rick,Gino  Alex,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781338048100,./images/book/9781338048100.jpg,,
-9780061146305,Series of Unfortunate Events #1: The Bad Beginning,Snicket  Lemony,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9780061146305,./images/book/9780061146305.jpg,,
-9780425290453,Strange Birds,Perez  Celia C.,1,8.99,0,8.99,UE,https://www.opendoor-bookstore.com/book/9780425290453,./images/book/9780425290453.jpg,,
-9780062686213,The Book of Boy,Murdock  Catherine Gilbert,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9780062686213,./images/book/9780062686213.jpg,,
-9781523510443,The Constitution Decoded,Kennedy  Katie,1,16.95,0,16.95,RS,https://www.opendoor-bookstore.com/book/9781523510443,./images/book/9781523510443.jpg,,yes
-9780545349239,The Dragonet Prophecy,Sutherland  Tui,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9780545349239,./images/book/9780545349239.jpg,,yes
-9781338343809,The Land of the Cranes,Salazar  Aida,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781338343809,./images/book/9781338343809.jpg,,
-9781465489654,The Vegetarian Cookbook,DK,1,16.99,0,16.99,AH,https://www.opendoor-bookstore.com/book/9781465489654,./images/book/9781465489654.jpg,,yes
-9781484778715,If We Were Giants,Matthews  Dave,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781484778715,./images/book/9781484778715.jpg,,
-9781338207361,Into the Clouds: The Race to Climb the World's Mo,Olson  Tod,1,18.99,0,18.99,UE M,https://www.opendoor-bookstore.com/book/9781338207361,./images/book/9781338207361.jpg,,
-9781368049177,Paola Santiago and the River of Tears,Mejia  Tehlor Kay,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781368049177,./images/book/9781368049177.jpg,,
-9781984837356,The Blackbird Girls,Blankman  Anne,1,17.99,0,17.99,UE M,https://www.opendoor-bookstore.com/book/9781984837356,./images/book/9781984837356.jpg,LOTS IN STOCK,yes
-9781338620702,The Collected,Alexander  K. R.,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9781338620702,./images/book/9781338620702.jpg,,
-9784805316177,The Complete Story of Sadako Sasaki,Sasaki  Masahiro,1,10.99,0,10.99,UE M,https://www.opendoor-bookstore.com/book/9784805316177,./images/book/9784805316177.jpg,,
-9780316380874,The Next Great Paulie Fink,Benjamin  Ali,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9780316380874,./images/book/9780316380874.jpg,,
-9781368042383,Tristan Strong Destroys the World,Mbalia  Kwame,1,17.99,0,17.99,UE M,https://www.opendoor-bookstore.com/book/9781368042383,./images/book/9781368042383.jpg,,
-9781368042413,Tristan Strong Punches a Hole in the Sky (A Trist,Mbalia  Kwame,1,8.99,0,8.99,UE M,https://www.opendoor-bookstore.com/book/9781368042413,./images/book/9781368042413.jpg,,
-9781536209150,Ghostology,Curtle  Lucinda,1,27.99,0,27.99,AH,https://www.opendoor-bookstore.com/book/9781536209150,./images/book/9781536209150.jpg,,
-9781733329293,Good Night Stories for Rebel Girls: 100 Immigrant,Favilli  Elena,1,35,0,35,AH,https://www.opendoor-bookstore.com/book/9781733329293,./images/book/9781733329293.jpg,,yes
-9781250144652,Beyond Words: What Wolves and Dogs Think and Feel,Safina  Carl,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781250144652,./images/book/9781250144652.jpg,,
-9781782858300,Barefoot Books World Atlas Sticker Book,Dean  David,1,12.99,0,12.99,AH,https://www.opendoor-bookstore.com/book/9781782858300,./images/book/9781782858300.jpg,,yes
-9780228101512,882 1/2 Amazing Answers to Your Questions About t,Brewster  Hugh,1,16.95,0,16.95,RS,https://www.opendoor-bookstore.com/book/9780228101512,./images/book/9780228101512.jpg,,yes
-9781454933618,Chef Junior,Spears  Anthony,1,19.95,0,19.95,AH,https://www.opendoor-bookstore.com/book/9781454933618,./images/book/9781454933618.jpg,,yes
-9781338716221,A Stack of Alpacas,Cosgrove Matt,1,14.99,0,14.99,P,https://www.opendoor-bookstore.com/book/9781338716221,./images/book/9781338716221.jpg,,
-9781338574852,All Because You Matter,Charles Tami,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781338574852,./images/book/9781338574852.jpg,,
-9780593119891,Attack of the Underwear Dragon,Rothman Scott,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780593119891,./images/book/9780593119891.jpg,,
-9781534451087,Click Clack Good Night,Cronin Doreen,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781534451087,./images/book/9781534451087.jpg,,
-,,,,,,,,,,,
-9781536212389,Julian at the Wedding,Love Jessica,1,16.99,0,16.99,P LE,https://www.opendoor-bookstore.com/book/9781536212389,./images/book/9781536212389.jpg,,
-9781338627053,Kind,Green Alison,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781338627053,./images/book/9781338627053.jpg,,
-9781616899912,Little Audrey's Daydream,Hepburn Ferrer Sean,1,17.95,0,17.95,P LE,https://www.opendoor-bookstore.com/book/9781616899912,./images/book/9781616899912.jpg,,
-9780884487975,Magnificent Homespun Brown,Doyon Samara Cole,1,16.95,0,16.95,P LE,https://www.opendoor-bookstore.com/book/9780884487975,./images/book/9780884487975.jpg,,
-9781452181547,On Account of the Gum,Rex Adam,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781452181547,./images/book/9781452181547.jpg,,
-9781943645480,On Eagle Cove,Yolen Jane,1,16.95,0,16.95,P,https://www.opendoor-bookstore.com/book/9781943645480,./images/book/9781943645480.jpg,,
-9781338266870,The Elephant's New Shoe,Neme Laurel,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781338266870,./images/book/9781338266870.jpg,,
-9780316427890,The Joyful Book,Parr Todd,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780316427890,./images/book/9780316427890.jpg,,
-9780593206751,What We'll Build,Jeffers Oliver,1,19.99,0,19.99,P LE,https://www.opendoor-bookstore.com/book/9780593206751,./images/book/9780593206751.jpg,,
-9781250243010,A Game of Fox & Squirrels,Reese Jenn,1,16.99,0,16.99,M UE,https://www.opendoor-bookstore.com/book/9781250243010,./images/book/9781250243010.jpg,,
-9780062836694,A Good Kind of Trouble,RamÃ©e Lisa Moore,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9780062836694,./images/book/9780062836694.jpg,,
-9781250315328,A Song Below Water,Morrow Bethany C.,1,17.99,0,17.99,M,https://www.opendoor-bookstore.com/book/9781250315328,./images/book/9781250315328.jpg,,
-9781984892973,Clean Getaway,Stone Nic,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781984892973,./images/book/9781984892973.jpg,,
-9780062387240,Divergent,Roth Veronica,1,12.99,0,12.99,M,https://www.opendoor-bookstore.com/book/9780062387240,./images/book/9780062387240.jpg,,
-9780545265355,Hunger Games Trilogy Boxset,Collins Suzanne,1,53.97,0,53.97,M,https://www.opendoor-bookstore.com/book/9780545265355,./images/book/9780545265355.jpg,,yes
-9780152061548,Life As We Knew It,Pfeffer Susan Beth,1,9.99,0,9.99,M,https://www.opendoor-bookstore.com/book/9780152061548,./images/book/9780152061548.jpg,,
-9781442472433,Scythe,Shusterman Neal,1,12.99,0,12.99,M,https://www.opendoor-bookstore.com/book/9781442472433,./images/book/9781442472433.jpg,,
-9781338635171,The Ballad of Songbirds and Snakes (a Hunger Game,Collins Suzanne,1,27.99,0,27.99,M,https://www.opendoor-bookstore.com/book/9781338635171,./images/book/9781338635171.jpg,,
-9781547600144,The Gravity of Us,Stamper Phil,1,17.99,0,17.99,M,https://www.opendoor-bookstore.com/book/9781547600144,./images/book/9781547600144.jpg,,
-9781250147936,The Hazel Wood,Albert Melissa,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9781250147936,./images/book/9781250147936.jpg,,
-9781524739010,The Kingdom of Back,Lu Marie,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781524739010,./images/book/9781524739010.jpg,,
-9781338281965,The Knowing,Cameron Sharon,1,9.99,0,9.99,M,https://www.opendoor-bookstore.com/book/9781338281965,./images/book/9781338281965.jpg,,
-9781250246073,The Night Country,Albert Melissa,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781250246073,./images/book/9781250246073.jpg,,
-9780735228528,The Night Diary,Hiranandani Veera,1,8.99,0,8.99,UE M,https://www.opendoor-bookstore.com/book/9780735228528,./images/book/9780735228528.jpg,,
-9781681197517,The Queen Bee and Me,McDunn Gillian,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781681197517,./images/book/9781681197517.jpg,,
-9780553496710,The Sun Is Also a Star,Yoon Nicola,1,12.99,0,12.99,M,https://www.opendoor-bookstore.com/book/9780553496710,./images/book/9780553496710.jpg,,
-9781368053297,The Voting Booth,Colbert Brandy,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781368053297,./images/book/9781368053297.jpg,,
-9781534440975,Things You Can't Say,Bishop Jenn,1,17.99,0,17.99,UE M,https://www.opendoor-bookstore.com/book/9781534440975,./images/book/9781534440975.jpg,,
-9781596437746,This One Summer,Tamaki Jillian,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781596437746,./images/book/9781596437746.jpg,,
-9780385741279,We Were Liars,Lockhart E.,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9780385741279,./images/book/9780385741279.jpg,,
-9780316498166,Becoming Muhammad Ali,Patterson James,1,16.99,0,16.99,UE,https://www.opendoor-bookstore.com/book/9780316498166,./images/book/9780316498166.jpg,,
-9781524773007,Bloom,Oppel Kenneth,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781524773007,./images/book/9781524773007.jpg,,
-9781250308696,Bob,Mass Wendy,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9781250308696,./images/book/9781250308696.jpg,,
-9780062875853,From the Desk of Zoe Washington,Marks Janae,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9780062875853,./images/book/9780062875853.jpg,,
-9781338280128,Ghost Squad,Ortega Claribel A.,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781338280128,./images/book/9781338280128.jpg,,
-9781534433441,Just Beyond the Very Very Far North,Bar-el Dan,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781534433441,./images/book/9781534433441.jpg,,
-9780593121054,Max Meow Book 1: Cat Crusader,Gallagher John,1,12.99,0,12.99,LE UE,https://www.opendoor-bookstore.com/book/9780593121054,./images/book/9780593121054.jpg,,
-9780786838653,Percy Jackson & the Olympians 1: The Lightning Th,Riordan Rick,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9780786838653,./images/book/9780786838653.jpg,,yes
-9781419743504,Sofia Valdez and the Vanishing Vote,Beaty Andrea,1,12.99,0,12.99,LE,https://www.opendoor-bookstore.com/book/9781419743504,./images/book/9781419743504.jpg,,
-9781534443785,Spy School Revolution,Gibbs Stuart,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781534443785,./images/book/9781534443785.jpg,,
-9781534461581,The Girl and the Witch's Garden,Bowman Erin,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781534461581,./images/book/9781534461581.jpg,,yes
-9781338538090,The Invasion (Animorphs Graphix #1),Applegate K. A.,1,12.99,0,12.99,UE,https://www.opendoor-bookstore.com/book/9781338538090,./images/book/9781338538090.jpg,,
-9781423117100,The Lightning Thief Graphic Novel: The Percy Jack,Riordan Rick,1,12.99,0,12.99,UE M,https://www.opendoor-bookstore.com/book/9781423117100,./images/book/9781423117100.jpg,,
-9781338185713,The Serpent's Secret,DasGupta Sayantani,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9781338185713,./images/book/9781338185713.jpg,,
-9781534433427,The Very Very Far North,Bar-el Dan,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9781534433427,./images/book/9781534433427.jpg,,
-9781338236132,Twins (Twins #1),Johnson Varian,1,12.99,0,12.99,UE,https://www.opendoor-bookstore.com/book/9781338236132,./images/book/9781338236132.jpg,,
-9781524715700,When You Trap a Tiger,Keller Tae,1,16.99,0,16.99,UE,https://www.opendoor-bookstore.com/book/9781524715700,./images/book/9781524715700.jpg,,
-9781536214581,Jasmine Green Rescues: A Duckling Called Button,Peters Helen,1,6.99,0,6.99,LE,https://www.opendoor-bookstore.com/book/9781536214581,./images/book/9781536214581.jpg,,
-9781536214598,Jasmine Green Rescues: A Piglet Called Truffle,Peters Helen,1,6.99,0,6.99,LE,https://www.opendoor-bookstore.com/book/9781536214598,./images/book/9781536214598.jpg,,
-9781680104677,Little Penguin Rescue,Delahaye Rachel,1,5.99,0,5.99,LE,https://www.opendoor-bookstore.com/book/9781680104677,./images/book/9781680104677.jpg,,
-9781534477209,Mia Mayhem and the Super Family Field Day,West Kara,1,5.99,0,5.99,LE,https://www.opendoor-bookstore.com/book/9781534477209,./images/book/9781534477209.jpg,,
-9781338530094,Paws for a Cause: A Branches Book (Diary of a Pug,May Kyla,1,4.99,0,4.99,LE,https://www.opendoor-bookstore.com/book/9781338530094,./images/book/9781338530094.jpg,,
-9781515872689,Pedro on the Go,Manushkin Fran,1,4.95,0,4.95,LE,https://www.opendoor-bookstore.com/book/9781515872689,./images/book/9781515872689.jpg,,
-9781680104943,Pet Rescue Adventures Collection,Webb Holly,1,19.96,0,19.96,LE,https://www.opendoor-bookstore.com/book/9781680104943,./images/book/9781680104943.jpg,,
-9781684125883,Rabbit & Bear: Rabbit's Bad Habits Volume 1,Gough Julian,1,9.99,0,9.99,LE,https://www.opendoor-bookstore.com/book/9781684125883,./images/book/9781684125883.jpg,,
-9781524793647,Rory Branagan: Detective #1,Clover Andrew,1,9.99,0,9.99,LE,https://www.opendoor-bookstore.com/book/9781524793647,./images/book/9781524793647.jpg,,
-9780380709533,Runaway Ralph,Cleary Beverly,1,7.99,0,7.99,LE,https://www.opendoor-bookstore.com/book/9780380709533,./images/book/9780380709533.jpg,,
-9781680104769,Sam the Stolen Puppy,Webb Holly,1,5.99,0,5.99,LE,https://www.opendoor-bookstore.com/book/9781680104769,./images/book/9781680104769.jpg,,
-9780380709243,The Mouse annd the Motorcycle,Cleary Beverly,1,7.99,0,7.99,LE,https://www.opendoor-bookstore.com/book/9780380709243,./images/book/9780380709243.jpg,,
-9781680104752,The Mystery Kitten,Webb Holly,1,5.99,0,5.99,LE,https://www.opendoor-bookstore.com/book/9781680104752,./images/book/9781680104752.jpg,,
-9781536202229,The Princess in Black and the Giant Problem,Hale Shannon,1,14.99,0,14.99,LE,https://www.opendoor-bookstore.com/book/9781536202229,./images/book/9781536202229.jpg,,
-9781680104776,The Secret Kitten and Other Tales,Webb Holly,1,10.99,0,10.99,LE,https://www.opendoor-bookstore.com/book/9781680104776,./images/book/9781680104776.jpg,,
-9781368053358,Unlimited Squirrels I Want to Sleep Under the Sta,Willems Mo,1,12.99,0,12.99,LE,https://www.opendoor-bookstore.com/book/9781368053358,./images/book/9781368053358.jpg,,
+Product Number,title,author,Total Qty Ordered,price,Discount,Total Amount,age,link,image,,featured,cat
+9781250222213,Agent Moose,O'Hara  Mo,1,10.99,0,10.99,LE,https://www.opendoor-bookstore.com/book/9781250222213,./images/book/9781250222213.jpg,,yes,
+9781605375199,All Along the River,Weightman  Magnus,1,9.95,0,9.95,LE,https://www.opendoor-bookstore.com/book/9781605375199,./images/book/9781605375199.jpg,,yes,
+,,,,,,,,,,,,
+9781524717544,Child of the Universe,Jayawardhana  Ray,1,17.99,0,17.99,LE,https://www.opendoor-bookstore.com/book/9781524717544,./images/book/9781524717544.jpg,,yes,
+9780525515074,Dead Voices,Arden  Katherine,1,8.99,0,8.99,UE,https://www.opendoor-bookstore.com/book/9780525515074,./images/book/9780525515074.jpg,,yes,
+9781534479845,Keeper of the Lost Cities Illustrated & Annotated Edition: Book One,Messenger  Shannon,1,9.99,0,9.99,UE,https://www.opendoor-bookstore.com/book/9781534479845,./images/book/9781534479845.jpg,,,
+9780763645045,Mercy Watson to the Rescue,DiCamillo  Kate,1,6.99,0,6.99,LE,https://www.opendoor-bookstore.com/book/9780763645045,./images/book/9780763645045.jpg,,,
+9781515872900,Sadiq and the Explorers,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515872900,./images/book/9781515872900.jpg,,,
+9781515845669,Sadiq and the Fun Run,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515845669,./images/book/9781515845669.jpg,,,
+9781515845683,Sadiq and the Pet Problem,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515845683,./images/book/9781515845683.jpg,,,
+9781515872887,Sadiq and the Ramadan Gift,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515872887,./images/book/9781515872887.jpg,,,
+9780593114544,She Persisted in Sports,Clinton  Chelsea,1,17.99,0,17.99,LE,https://www.opendoor-bookstore.com/book/9780593114544,./images/book/9780593114544.jpg,,,
+9780525515043,Small Spaces,Arden  Katherine,1,8.99,0,8.99,UE,https://www.opendoor-bookstore.com/book/9780525515043,./images/book/9780525515043.jpg,,,
+9781944211813,Illustoria: For Creative Kids and Their Grownups,Haidle  Elizabeth,1,16.00,0,16.00,AH,https://www.opendoor-bookstore.com/book/9781944211813,./images/book/9781944211813.jpg,,,
+9780316495196,The Worry (Less) Book,Brian  Rachel,1,15.99,0,15.99,AH,https://www.opendoor-bookstore.com/book/9780316495196,./images/book/9780316495196.jpg,,,
+9781782853329,Barefoot Books: Children of the World,Depalma  Kate,1,16.99,0,16.99,RS,https://www.opendoor-bookstore.com/book/9781782853329,./images/book/9781782853329.jpg,,yes,
+9781631585579,A Kid's Guide to Money and Finance,Kunigis  Allan,1,9.99,0,9.99,RS,https://www.opendoor-bookstore.com/book/9781631585579,./images/book/9781631585579.jpg,,yes,
+9781452156668,How to Write a Story,Messner  Kate,1,17.99,0,17.99,RS,https://www.opendoor-bookstore.com/book/9781452156668,./images/book/9781452156668.jpg,,,
+9780316527156,Malala,Yousafzai  Malala,1,6.99,0,6.99,RS,https://www.opendoor-bookstore.com/book/9780316527156,./images/book/9780316527156.jpg,,yes,
+9780500652220,Pop-Up Volcano!,Daugey  Fleur,1,29.95,0,29.95,RS,https://www.opendoor-bookstore.com/book/9780500652220,./images/book/9780500652220.jpg,,yes,
+9780316307451,CatStronauts: Mission Moon,Brockington  Drew,1,7.99,0,7.99,LE UE,https://www.opendoor-bookstore.com/book/9780316307451,./images/book/9780316307451.jpg,,,
+9781338535624,Dog Man: Grime and Punishment: From the Creator of Captain Underpants (Dog Man #9),Pilkey  Dav,1,12.99,0,12.99,LE UE,https://www.opendoor-bookstore.com/book/9781338535624,./images/book/9781338535624.jpg,,,
+9780063029583,Ivan & Friends 2-Book Collection,Applegate  Katherine,1,37.98,0,37.98,LE UE,https://www.opendoor-bookstore.com/book/9780063029583,./images/book/9780063029583.jpg,,,
+9781536215151,Malamander,Taylor  Thomas,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9781536215151,./images/book/9781536215151.jpg,,,
+9781338587258,Orientation (Marvel: Avengers Assembly #1),Chhibber  Preeti,1,13.99,0,13.99,LE UE,https://www.opendoor-bookstore.com/book/9781338587258,./images/book/9781338587258.jpg,,,
+9781419749094,Rowley Jefferson's Awesome Friendly Adventure,Kinney  Jeff,1,14.99,0,14.99,LE UE,https://www.opendoor-bookstore.com/book/9781419749094,./images/book/9781419749094.jpg,,,
+9781643750057,Skunk and Badger (Skunk and Badger 1),Timberlake   Amy,1,18.95,0,18.95,LE ,https://www.opendoor-bookstore.com/book/9781643750057,./images/book/9781643750057.jpg,,,
+9780062839237,Stay,Pyron  Bobbie,1,6.99,0,6.99,LE UE,https://www.opendoor-bookstore.com/book/9780062839237,./images/book/9780062839237.jpg,,,
+9781338677430,The Witches: The Graphic Novel,Dahl  Roald,1,14.99,0,14.99,LE UE,https://www.opendoor-bookstore.com/book/9781338677430,./images/book/9781338677430.jpg,,,
+9781524853815,How to Draw a Mermaid and Other Cute Creatures with Simple Shapes in 5 Steps,Mayo  Lulu,1,12.99,0,12.99,AH,https://www.opendoor-bookstore.com/book/9781524853815,./images/book/9781524853815.jpg,,yes,
+9781454941224,How to Draw Cute Beasts,Nguyen  Angela,1,12.95,0,12.95,AH,https://www.opendoor-bookstore.com/book/9781454941224,./images/book/9781454941224.jpg,,yes,
+9781839405877,Magical Unicorn Wordsearch,Finnegan  Ivy,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781839405877,./images/book/9781839405877.jpg,,,
+9781684376421,The Highlights Book of Things to Do,Highlights,1,24.99,0,24.99,AH,https://www.opendoor-bookstore.com/book/9781684376421,./images/book/9781684376421.jpg,LOTS IN STOCK,yes,
+9781465497864,The LEGO Games Book,Kosara  Tori,1,19.99,0,19.99,AH,https://www.opendoor-bookstore.com/book/9781465497864,./images/book/9781465497864.jpg,,,
+9781604338720,The Super Duper Joke Book Volume 1,Pellowski  Michael,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781604338720,./images/book/9781604338720.jpg,,,
+9781604339598,The Super Duper Joke Book Volume 2,Cider Mill Press,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781604339598,./images/book/9781604339598.jpg,,,
+9781426337000,National Geographic Kids Puzzle Book of the World,Kids  National Geographic,1,6.99,0,6.99,AH RS,https://www.opendoor-bookstore.com/book/9781426337000,./images/book/9781426337000.jpg,,,
+9781419742309,Everything You Need to Know When You Are 8,Miller  Kirsten,1,12.99,0,12.99,RS,https://www.opendoor-bookstore.com/book/9781419742309,./images/book/9781419742309.jpg,,,
+9781419742323,Everything You Need to Know When You Are 9,Miller  Kirsten,1,12.99,0,12.99,RS,https://www.opendoor-bookstore.com/book/9781419742323,./images/book/9781419742323.jpg,,,
+9781510757004,Learning STEM from Baseball,Ventura  Marne,1,7.99,0,7.99,RS,https://www.opendoor-bookstore.com/book/9781510757004,./images/book/9781510757004.jpg,,yes,
+9781465499332,The Mysteries of the Universe,DK,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781465499332,./images/book/9781465499332.jpg,,,
+9780593095614,What Is a Presidential Election?,Yacka  Douglas,1,7.99,0,7.99,RS,https://www.opendoor-bookstore.com/book/9780593095614,./images/book/9780593095614.jpg,,yes,
+9781454942900,I Heart Kawaii,Thornton  Harry,1,12.95,0,12.95,AH,https://www.opendoor-bookstore.com/book/9781454942900,./images/book/9781454942900.jpg,,,
+9780358164746,Crossover Graphic Novel ,Alexander  Kwame,1,12.99,0,12.99,M,https://www.opendoor-bookstore.com/book/9781328575494,./images/book/9781328575494.jpg,,yes,
+,,,,,,,,,,,,
+9781646140053,Elatsoe,Little Badger  Darcie,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781646140053,./images/book/9781646140053.jpg,,yes,
+9780593175941,Escape Room,Stoffels  Maren,1,9.99,0,9.99,M,https://www.opendoor-bookstore.com/book/9780593175941,./images/book/9780593175941.jpg,,,
+,,,,,,,,,,,,
+9781338338843,Haunt Me,Alexander  K. R.,1,6.99,0,6.99,M,https://www.opendoor-bookstore.com/book/9781338338843,./images/book/9781338338843.jpg,,,
+9781534421868,Hungry Hearts,Chapman  Elsie,1,11.99,0,11.99,M,https://www.opendoor-bookstore.com/book/9781534421868,./images/book/9781534421868.jpg,,,
+9781338639933,K-pop Confidential,Lee  Stephan,1,9.99,0,9.99,M,https://www.opendoor-bookstore.com/book/9781338639933,./images/book/9781338639933.jpg,,,
+9781594746031,Miss Peregrine's Home for Peculiar Children,Riggs  Ransom,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9781594746031,./images/book/9781594746031.jpg,,,
+9780525647072,Pet,Emezi  Akwaeke,1,17.99,0,17.99,M,https://www.opendoor-bookstore.com/book/9780525647072,./images/book/9780525647072.jpg,,,
+9781250180636,Renegades,Meyer  Marissa,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9781250180636,./images/book/9781250180636.jpg,,,
+9780316453691,Stamped,Reynolds  Jason,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9780316453691,./images/book/9780316453691.jpg,LOTS IN STOCK,yes,
+9781779504210,Superman Smashes the Klan,Yang  Gene Luen,1,16.99,0,16.99,M,https://www.opendoor-bookstore.com/book/9781779504210,./images/book/9781779504210.jpg,,,
+,,,,,,,,,,,,
+9781547603114,Watch Us Rise,Watson Renée,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9781547603114,./images/book/9781547603114.jpg,,,
+9780358131434,We Are Not Free,Chee  Traci,1,17.99,0,17.99,M,https://www.opendoor-bookstore.com/book/9780358131434,./images/book/9780358131434.jpg,,,
+9780763690663,Alphamaniacs,Fleischman  Paul,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9780763690663,./images/book/9780763690663.jpg,,yes,
+9780593110416,Antiracist Baby,Kendi  Ibram X.,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9780593110416,./images/book/9780593110416.jpg,,yes,
+9781492638322,Bedtime for Sweet Creatures,Grimes   Nikki,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781492638322,./images/book/9781492638322.jpg,,yes,
+9781682631454,Bedtime in the Jungle,Butler  John,1,7.95,0,7.95,P,https://www.opendoor-bookstore.com/book/9781682631454,./images/book/9781682631454.jpg,,yes,
+9780399547645,Bunheads,Copeland  Misty,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9780399547645,./images/book/9780399547645.jpg,,yes,
+9780525514510,Butts Are Everywhere,Stutzman  Jonathan,1,16.99,0,16.99,P,https://www.opendoor-bookstore.com/book/9780525514510,./images/book/9780525514510.jpg,,yes,
+9780525553465,Can I Play Too?,Cotterill  Samantha,1,16.99,0,16.99,P,https://www.opendoor-bookstore.com/book/9780525553465,./images/book/9780525553465.jpg,,,
+9780063012721,Dear Baby ,Rosenthal  Paris,1,18.99,0,18.99,P,https://www.opendoor-bookstore.com/book/9780063012721,./images/book/9780063012721.jpg,,,
+9780892394135,Galapagos Girl,Arnold  Marsha Diane,1,19.95,0,19.95,P,https://www.opendoor-bookstore.com/book/9780892394135,./images/book/9780892394135.jpg,,,
+9781338617993,Grumpycorn,McIntyre  Sarah,1,6.99,0,6.99,P,https://www.opendoor-bookstore.com/book/9781338617993,./images/book/9781338617993.jpg,,,
+9781728236605,Heroes Wear Masks,Sesame Workshop,1,7.99,0,7.99,P,https://www.opendoor-bookstore.com/book/9781728236605,./images/book/9781728236605.jpg,,,
+9781682632321,Izzy Gizmo,Jones  Pip,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9781682632321,./images/book/9781682632321.jpg,,,
+9781250268204,Labyrinth: The ABC Storybook,Flowers  Luke,1,19.99,0,19.99,P,https://www.opendoor-bookstore.com/book/9781250268204,./images/book/9781250268204.jpg,,,
+9781773213217,Llamas With Lemonade,Koultourides  Ariana,1,10.99,0,10.99,P,https://www.opendoor-bookstore.com/book/9781773213217,./images/book/9781773213217.jpg,,yes,
+9781534466197,Looking for Smile,Tarlow  Ellen,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781534466197,./images/book/9781534466197.jpg,,,
+9780735365346,Mindful Baby Board Book Set,Mudpuppy,1,14.99,0,14.99,P,https://www.opendoor-bookstore.com/book/9780735365346,./images/book/9780735365346.jpg,,,
+9780316266628,The Alphabet's Alphabet,Harris  Chris,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9780316266628,./images/book/9780316266628.jpg,,,
+9781452171913,The Bear and the Moon,Burgess  Matthew,1,18.99,0,18.99,P,https://www.opendoor-bookstore.com/book/9781452171913,./images/book/9781452171913.jpg,,,
+9780316428385,The Office: A Day at Dunder Mifflin Elementary,Pearlman  Robb,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9780316428385,./images/book/9780316428385.jpg,,,
+9781951511050,The Yuckiest Alphabet Book in the World,Novak  Margaret,1,12.99,0,12.99,P,https://www.opendoor-bookstore.com/book/9781951511050,./images/book/9781951511050.jpg,,,BO AZ
+9781536207019,This Is a Book of Shapes,Kraegel  Kenneth,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9781536207019,./images/book/9781536207019.jpg,,,
+9781419742064,This Way  Charlie,Levis  Caron,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781419742064,./images/book/9781419742064.jpg,,,
+9781499810080,Uncle Bobby's Wedding (2020),Brannen  Sarah S.,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781499810080,./images/book/9781499810080.jpg,,,
+9781534453838,Unicorns Are the Worst!,Willan  Alex,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781534453838,./images/book/9781534453838.jpg,,,
+9780593202555,We Are All Equal,Crumble  P.,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9780593202555,./images/book/9780593202555.jpg,,yes,
+9781789502503,Search and Find: Dinosaurs,Stamper  Claire,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781789502503,./images/book/9781789502503.jpg,,,
+9781646860623,A Gift for Amma,Sriram  Meera,1,8.99,0,8.99,P LE,https://www.opendoor-bookstore.com/book/9781646860623,./images/book/9781646860623.jpg,,,
+9781481449946,And Tango Makes Three,Richardson  Justin,1,9.99,0,9.99,P LE,https://www.opendoor-bookstore.com/book/9781481449946,./images/book/9781481449946.jpg,,,
+9780358252108,Becoming a Good Creature,Montgomery  Sy,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780358252108,./images/book/9780358252108.jpg,,yes,
+9780062499615,Cece Loves Science,Derting  Kimberly,1,7.99,0,7.99,P LE,https://www.opendoor-bookstore.com/book/9780062499615,./images/book/9780062499615.jpg,,,
+9781554533541,Chester's Masterpiece,Watt  Melanie,1,8.99,0,8.99,P LE,https://www.opendoor-bookstore.com/book/9781554533541,./images/book/9781554533541.jpg,,,
+9780316562577,Don't Touch My Hair!,Miller  Sharee,1,7.99,0,7.99,P LE,https://www.opendoor-bookstore.com/book/9780316562577,./images/book/9780316562577.jpg,,yes,
+9780593115350,Grandma's Gardens,Clinton  Hillary Rodham,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780593115350,./images/book/9780593115350.jpg,,,
+9781534402317,Feathered Serpent and the Five Suns,Hillery  Tony,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781534402317,./images/book/9781534402317.jpg,,yes,
+9781849766630,How the Stars Came To Be,Mistry  Poonam,1,17.95,0,17.95,P LE,https://www.opendoor-bookstore.com/book/9781849766630,./images/book/9781849766630.jpg,,,
+9780525518778,I Am Every Good Thing,Barnes  Derrick,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780525518778,./images/book/9780525518778.jpg,,,
+9781452137797,If You Come to Earth,Blackall  Sophie,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9781452137797,./images/book/9781452137797.jpg,,,
+9781910328644,Last,Davies   Nicola,1,16.99,0,16.99,P LE,https://www.opendoor-bookstore.com/book/9781910328644,./images/book/9781910328644.jpg,,,
+9781773062365,Loon,Griek  Susan Vande,1,12.95,0,12.95,P LE,https://www.opendoor-bookstore.com/book/9781773062365,./images/book/9781773062365.jpg,,,
+9781524715502,Lost and Found Cat,Kuntz  Doug,1,7.99,0,7.99,P LE,https://www.opendoor-bookstore.com/book/9781524715502,./images/book/9781524715502.jpg,,,
+9781984896537,Margaret's Unicorn,Smith  Briony May,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781984896537,./images/book/9781984896537.jpg,,,
+9780884485551,Most People,Leannah  Michael,1,9.95,0,9.95,P LE,https://www.opendoor-bookstore.com/book/9780884485551,./images/book/9780884485551.jpg,,,
+9781772781533,Pencil,Ingalls  Ann,1,12.95,0,12.95,P LE,https://www.opendoor-bookstore.com/book/9781772781533,./images/book/9781772781533.jpg,,,
+9781771473279,Pierre & Paul: Avalanche!,Adderson  Caroline,1,16.95,0,16.95,P LE,https://www.opendoor-bookstore.com/book/9781771473279,./images/book/9781771473279.jpg,,,
+9780358423324,Robobaby (signed edition),Wiesner  David,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780544987319,./images/book/9780544987319.jpg,,yes,
+9781515872894,Sadiq and the Bridge Builders,Nuurali  Siman,1,6.95,0,6.95,LE,https://www.opendoor-bookstore.com/book/9781515872894,./images/book/9781515872894.jpg,,,
+9781771646468,Stay  Little Seed,Valentini  Cristiana,1,17.95,0,17.95,P LE,https://www.opendoor-bookstore.com/book/9781771646468,./images/book/9781771646468.jpg,,,
+9781984813787,The Cat Man of Aleppo,Shamsi-Basha  Karim,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781984813787,./images/book/9781984813787.jpg,,,
+9780525555148,The Seed of Compassion,Dalai Lama,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780525555148,./images/book/9780525555148.jpg,,,
+9781682632192,The Story Blanket,Wolff   Ferida,1,8.99,0,8.99,P LE,https://www.opendoor-bookstore.com/book/9781682632192,./images/book/9781682632192.jpg,,,
+9780593115053,The Tiny Chef: And Da Mishing Weshipee Blook,Larsen  Rachel,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780593115053,./images/book/9780593115053.jpg,,,
+9781773213880,The Truth About Wind,Hutchins  Hazel,1,18.95,0,18.95,P LE,https://www.opendoor-bookstore.com/book/9781773213880,./images/book/9781773213880.jpg,,,
+9781481451482,When I Draw a Panda,Bates  Amy June,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781481451482,./images/book/9781481451482.jpg,,,
+9780593123843,Wild Symphony,Brown  Dan,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780593123843,./images/book/9780593123843.jpg,,,
+9781536217476,Will You Be My Friend?,McBratney  Sam,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781536217476,./images/book/9781536217476.jpg,,,
+9781419746772,Feathered Serpent and the Five Suns,Tonatiuh  Duncan,1,16.99,0,16.99,P LE ,https://www.opendoor-bookstore.com/book/9781419746772,./images/book/9781419746772.jpg,,,
+9780823444366,No Kimchi For Me!,Kim  Aram,1,8.99,0,8.99,P LE ,https://www.opendoor-bookstore.com/book/9780823444366,./images/book/9780823444366.jpg,,,
+9781426338113,National Geographic Kids Cats and Dogs Super Sticker Activity Book,Kids  National Geographic,1,12.99,0,12.99,AH,https://www.opendoor-bookstore.com/book/9781426338113,./images/book/9781426338113.jpg,,,
+9781635863192,Roaring  Rumbling Tattoo Dinosaurs,Gregory  Aaron John,1,7.95,0,7.95,AH,https://www.opendoor-bookstore.com/book/9781635863192,./images/book/9781635863192.jpg,,,
+9781523502950,Paint by Sticker Kids: Beautiful Bugs,Workman Publishing,1,9.95,0,9.95,AH,https://www.opendoor-bookstore.com/book/9781523502950,./images/book/9781523502950.jpg,,,
+9780500652299,The Big Sticker Book of Blooms,Zommer  Yuval,1,14.95,0,14.95,AH,https://www.opendoor-bookstore.com/book/9780500652299,./images/book/9780500652299.jpg,,,
+9781782858331,Let's Celebrate!: Special Days Around the World,Depalma  Kate,1,16.99,0,16.99,RS,https://www.opendoor-bookstore.com/book/9781782858331,./images/book/9781782858331.jpg,,yes,
+9781465490865,Sticker Encyclopedia Animals,DK,1,12.99,0,12.99,AH,https://www.opendoor-bookstore.com/book/9781465490865,./images/book/9781465490865.jpg,,,
+9780525645931,The Bug Girl,Spencer  Sophia,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780525645931,./images/book/9780525645931.jpg,,,
+9781523506880,Welcome to Jazz,Sloan  Carolyn,1,24.95,0,24.95,P AH,https://www.opendoor-bookstore.com/book/9781523506880,./images/book/9781523506880.jpg,,,
+9781782853275,"Mindful Kids: 50 Mindfulness Activities for Kindness, Focus, and Calm",Stewart  Whitney,1,14.99,0,14.99,AH,https://www.opendoor-bookstore.com/book/9781782853275,./images/book/9781782853275.jpg,,yes,
+9781616898984,Inventive Animals,Sourdais  Clementine,1,7.99,0,7.99,AH,https://www.opendoor-bookstore.com/book/9781616898984,./images/book/9781616898984.jpg,,,
+9781499810875,My First Big Book of Bilingual Coloring Animals,little bee books,1,9.99,0,9.99,AH,https://www.opendoor-bookstore.com/book/9781499810875,./images/book/9781499810875.jpg,,yes,
+9781536204940,A Wish in the Dark,Soontornvat  Christina,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781536204940,./images/book/9781536204940.jpg,,yes,
+9780545812573,George,Gino  Alex,1,7.99,0,7.99,UE MS,https://www.opendoor-bookstore.com/book/9780545812573,./images/book/9780545812573.jpg,,yes,
+9781620143117,I Remember,Hopkins  Lee Bennett (EDT),1,19.95,0,19.95,UE,https://www.opendoor-bookstore.com/book/9781620143117,./images/book/9781620143117.jpg,,,
+9781416983163,Kenny & the Book of Beasts,DiTerlizzi  Tony,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781416983163,./images/book/9781416983163.jpg,,,
+9780316536776,Loretta Little Looks Back,Pinkney  Andrea Davis,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9780316536776,./images/book/9780316536776.jpg,,,
+9781984850546,Pacey Packer: Unicorn Tracker Book 1,Phillipps  J.C.,1,12.99,0,12.99,UE,https://www.opendoor-bookstore.com/book/9781984850546,./images/book/9781984850546.jpg,,,
+9781423141891,Percy Jackson & The Olympians,Riordan  Rick,1,89.99,0,89.99,UE,https://www.opendoor-bookstore.com/book/9781423141891,./images/book/9781423141891.jpg,,yes,
+9780394820378,Phantom Tollbooth,Juster  Norton,1,8.99,0,8.99,UE,https://www.opendoor-bookstore.com/book/9780394820378,./images/book/9780394820378.jpg,,,
+9781338048100,Rick,Gino  Alex,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781338048100,./images/book/9781338048100.jpg,,,
+9780061146305,Series of Unfortunate Events #1: The Bad Beginning,Snicket  Lemony,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9780061146305,./images/book/9780061146305.jpg,,,
+9780425290453,Strange Birds,Perez  Celia C.,1,8.99,0,8.99,UE,https://www.opendoor-bookstore.com/book/9780425290453,./images/book/9780425290453.jpg,,,
+9780062686213,The Book of Boy,Murdock  Catherine Gilbert,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9780062686213,./images/book/9780062686213.jpg,,,
+9781523510443,The Constitution Decoded,Kennedy  Katie,1,16.95,0,16.95,RS,https://www.opendoor-bookstore.com/book/9781523510443,./images/book/9781523510443.jpg,,yes,
+9780545349239,The Dragonet Prophecy,Sutherland  Tui,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9780545349239,./images/book/9780545349239.jpg,,yes,
+9781338343809,The Land of the Cranes,Salazar  Aida,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781338343809,./images/book/9781338343809.jpg,,,
+9781465489654,The Vegetarian Cookbook,DK,1,16.99,0,16.99,AH,https://www.opendoor-bookstore.com/book/9781465489654,./images/book/9781465489654.jpg,,yes,
+9781484778715,If We Were Giants,Matthews  Dave,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781484778715,./images/book/9781484778715.jpg,,,
+9781338207361,Into the Clouds: The Race to Climb the World’s Most Dangerous Mountain,Olson  Tod,1,18.99,0,18.99,UE M,https://www.opendoor-bookstore.com/book/9781338207361,./images/book/9781338207361.jpg,,,
+9781368049177,Paola Santiago and the River of Tears,Mejia  Tehlor Kay,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781368049177,./images/book/9781368049177.jpg,,,
+9781984837356,The Blackbird Girls,Blankman  Anne,1,17.99,0,17.99,UE M,https://www.opendoor-bookstore.com/book/9781984837356,./images/book/9781984837356.jpg,LOTS IN STOCK,yes,
+9781338620702,The Collected,Alexander  K. R.,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9781338620702,./images/book/9781338620702.jpg,,,
+9784805316177,The Complete Story of Sadako Sasaki,Sasaki  Masahiro,1,10.99,0,10.99,UE M,https://www.opendoor-bookstore.com/book/9784805316177,./images/book/9784805316177.jpg,,,
+9780316380874,The Next Great Paulie Fink,Benjamin  Ali,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9780316380874,./images/book/9780316380874.jpg,,,
+9781368042383,Tristan Strong Destroys the World,Mbalia  Kwame,1,17.99,0,17.99,UE M,https://www.opendoor-bookstore.com/book/9781368042383,./images/book/9781368042383.jpg,,,
+9781368042413,"Tristan Strong Punches a Hole in the Sky (A Tristan Strong Novel, Book 1)",Mbalia  Kwame,1,8.99,0,8.99,UE M,https://www.opendoor-bookstore.com/book/9781368042413,./images/book/9781368042413.jpg,,,
+9781536209150,Ghostology,Curtle  Lucinda,1,27.99,0,27.99,AH,https://www.opendoor-bookstore.com/book/9781536209150,./images/book/9781536209150.jpg,,,
+9781733329293,Good Night Stories for Rebel Girls: 100 Immigrant Women Who Changed the World,Favilli  Elena,1,35,0,35,AH,https://www.opendoor-bookstore.com/book/9781733329293,./images/book/9781733329293.jpg,,yes,
+9781250144652,Beyond Words: What Wolves and Dogs Think and Feel (A Young Reader's Adaptation),Safina  Carl,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781250144652,./images/book/9781250144652.jpg,,,
+9781782858300,Barefoot Books World Atlas Sticker Book,Dean  David,1,12.99,0,12.99,AH,https://www.opendoor-bookstore.com/book/9781782858300,./images/book/9781782858300.jpg,,yes,
+9780228101512,882 1/2 Amazing Answers to Your Questions about the Titanic,Brewster  Hugh,1,16.95,0,16.95,RS,https://www.opendoor-bookstore.com/book/9780228101512,./images/book/9780228101512.jpg,,yes,
+9781454933618,Chef Junior,Spears  Anthony,1,19.95,0,19.95,AH,https://www.opendoor-bookstore.com/book/9781454933618,./images/book/9781454933618.jpg,,yes,
+9781338716221,A Stack of Alpacas,Cosgrove Matt,1,14.99,0,14.99,P,https://www.opendoor-bookstore.com/book/9781338716221,./images/book/9781338716221.jpg,,,
+9781338574852,All Because You Matter,Charles Tami,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781338574852,./images/book/9781338574852.jpg,,,
+9780593119891,Attack of the Underwear Dragon,Rothman Scott,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780593119891,./images/book/9780593119891.jpg,,,
+9781534451087,Click Clack Good Night,Cronin Doreen,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781534451087,./images/book/9781534451087.jpg,,,
+,,,,,,,,,,,,
+9781536212389,Julian at the Wedding,Love Jessica,1,16.99,0,16.99,P LE,https://www.opendoor-bookstore.com/book/9781536212389,./images/book/9781536212389.jpg,,,
+9781338627053,Kind,Green Alison,1,17.99,0,17.99,P,https://www.opendoor-bookstore.com/book/9781338627053,./images/book/9781338627053.jpg,,,
+9781616899912,Little Audrey's Daydream,Hepburn Ferrer Sean,1,17.95,0,17.95,P LE,https://www.opendoor-bookstore.com/book/9781616899912,./images/book/9781616899912.jpg,,,RE BIG
+9780884487975,Magnificent Homespun Brown,Doyon Samara Cole,1,16.95,0,16.95,P LE,https://www.opendoor-bookstore.com/book/9780884487975,./images/book/9780884487975.jpg,,,
+9781452181547,On Account of the Gum,Rex Adam,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9781452181547,./images/book/9781452181547.jpg,,,
+9781943645480,On Eagle Cove,Yolen Jane,1,16.95,0,16.95,P,https://www.opendoor-bookstore.com/book/9781943645480,./images/book/9781943645480.jpg,,,
+9781338266870,The Elephant's New Shoe,Neme Laurel,1,17.99,0,17.99,P LE RS,https://www.opendoor-bookstore.com/book/9781338266870,./images/book/9781338266870.jpg,,,BIG BIO
+9780316427890,The Joyful Book,Parr Todd,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780316427890,./images/book/9780316427890.jpg,,,
+9780593206751,What We'll Build,Jeffers Oliver,1,19.99,0,19.99,P LE,https://www.opendoor-bookstore.com/book/9780593206751,./images/book/9780593206751.jpg,,,
+9781250243010,A Game of Fox & Squirrels,Reese Jenn,1,16.99,0,16.99,M UE,https://www.opendoor-bookstore.com/book/9781250243010,./images/book/9781250243010.jpg,,,
+9780062836694,A Good Kind of Trouble,Ramée Lisa Moore,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9780062836694,./images/book/9780062836694.jpg,,,
+9781250315328,A Song Below Water,Morrow Bethany C.,1,17.99,0,17.99,M,https://www.opendoor-bookstore.com/book/9781250315328,./images/book/9781250315328.jpg,,,
+9781984892973,Clean Getaway,Stone Nic,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781984892973,./images/book/9781984892973.jpg,,,
+9780062387240,Divergent,Roth Veronica,1,12.99,0,12.99,M,https://www.opendoor-bookstore.com/book/9780062387240,./images/book/9780062387240.jpg,,,
+9780545265355,Hunger Games Trilogy Boxset,Collins Suzanne,1,53.97,0,53.97,M,https://www.opendoor-bookstore.com/book/9780545265355,./images/book/9780545265355.jpg,,yes,
+9780152061548,Life As We Knew It,Pfeffer Susan Beth,1,9.99,0,9.99,M,https://www.opendoor-bookstore.com/book/9780152061548,./images/book/9780152061548.jpg,,,
+9781442472433,Scythe,Shusterman Neal,1,12.99,0,12.99,M,https://www.opendoor-bookstore.com/book/9781442472433,./images/book/9781442472433.jpg,,,
+9781338635171,The Ballad of Songbirds and Snakes (A Hunger Games Novel),Collins Suzanne,1,27.99,0,27.99,M,https://www.opendoor-bookstore.com/book/9781338635171,./images/book/9781338635171.jpg,,,
+9781547600144,The Gravity of Us,Stamper Phil,1,17.99,0,17.99,M,https://www.opendoor-bookstore.com/book/9781547600144,./images/book/9781547600144.jpg,,,
+9781250147936,The Hazel Wood,Albert Melissa,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9781250147936,./images/book/9781250147936.jpg,,,
+9781524739010,The Kingdom of Back,Lu Marie,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781524739010,./images/book/9781524739010.jpg,,,
+9781338281965,The Knowing,Cameron Sharon,1,9.99,0,9.99,M,https://www.opendoor-bookstore.com/book/9781338281965,./images/book/9781338281965.jpg,,,
+9781250246073,The Night Country,Albert Melissa,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781250246073,./images/book/9781250246073.jpg,,,
+9780735228528,The Night Diary,Hiranandani Veera,1,8.99,0,8.99,UE M,https://www.opendoor-bookstore.com/book/9780735228528,./images/book/9780735228528.jpg,,,
+9781681197517,The Queen Bee and Me,McDunn Gillian,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781681197517,./images/book/9781681197517.jpg,,,
+9780553496710,The Sun Is Also a Star,Yoon Nicola,1,12.99,0,12.99,M,https://www.opendoor-bookstore.com/book/9780553496710,./images/book/9780553496710.jpg,,,
+9781368053297,The Voting Booth,Colbert Brandy,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781368053297,./images/book/9781368053297.jpg,,,
+9781534440975,Things You Can't Say,Bishop Jenn,1,17.99,0,17.99,UE M,https://www.opendoor-bookstore.com/book/9781534440975,./images/book/9781534440975.jpg,,,HD NOV SOC 
+9781596437746,This One Summer,Tamaki Jillian,1,18.99,0,18.99,M,https://www.opendoor-bookstore.com/book/9781596437746,./images/book/9781596437746.jpg,,,GRNO DIV 
+9780385741279,We Were Liars,Lockhart E.,1,10.99,0,10.99,M,https://www.opendoor-bookstore.com/book/9780385741279,./images/book/9780385741279.jpg,,,NOV MYST SOC
+9780316498166,Becoming Muhammad Ali,Patterson James,1,16.99,0,16.99,UE,https://www.opendoor-bookstore.com/book/9780316498166,./images/book/9780316498166.jpg,,,BIG DIV PO 
+9781524773007,Bloom,Oppel Kenneth,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781524773007,./images/book/9781524773007.jpg,,,FAN ACT
+9781250308696,Bob,Mass Wendy,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9781250308696,./images/book/9781250308696.jpg,,,FAN
+9780062875853,From the Desk of Zoe Washington,Marks Janae,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9780062875853,./images/book/9780062875853.jpg,,,HD DIV SOC NOV
+9781338280128,Ghost Squad,Ortega Claribel A.,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781338280128,./images/book/9781338280128.jpg,,,FAN 
+9781534433441,Just Beyond the Very Very Far North,Bar-el Dan,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781534433441,./images/book/9781534433441.jpg,,,AN 
+9780593121054,Max Meow Book 1: Cat Crusader,Gallagher John,1,12.99,0,12.99,LE UE,https://www.opendoor-bookstore.com/book/9780593121054,./images/book/9780593121054.jpg,,,HD GRNO AN ACT
+9780786838653,"Percy Jackson and the Olympians, Book One The Lightning Thief",Riordan Rick,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9780786838653,./images/book/9780786838653.jpg,,yes,MYT ACT FAN
+9781419743504,Sofia Valdez and the Vanishing Vote,Beaty Andrea,1,12.99,0,12.99,LE,https://www.opendoor-bookstore.com/book/9781419743504,./images/book/9781419743504.jpg,,,HD CH MYST 
+9781534443785,Spy School Revolution,Gibbs Stuart,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781534443785,./images/book/9781534443785.jpg,,,ACT MYST
+9781534461581,The Girl and the Witch's Garden,Bowman Erin,1,17.99,0,17.99,UE,https://www.opendoor-bookstore.com/book/9781534461581,./images/book/9781534461581.jpg,,yes,FAN SOC HD 
+9781338538090,The Invasion (Animorphs Graphix #1),Applegate K. A.,1,12.99,0,12.99,UE,https://www.opendoor-bookstore.com/book/9781338538090,./images/book/9781338538090.jpg,,,GRNO AN ACT
+9781423117100,Percy Jackson and the Olympians The Lightning Thief: The Graphic Novel,Riordan Rick,1,12.99,0,12.99,UE M,https://www.opendoor-bookstore.com/book/9781423117100,./images/book/9781423117100.jpg,,,GRNO FAN ACT
+9781338185713,The Serpent's Secret,DasGupta Sayantani,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9781338185713,./images/book/9781338185713.jpg,,,FAN ACT
+9781534433427,The Very Very Far North,Bar-el Dan,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9781534433427,./images/book/9781534433427.jpg,,,AN 
+9781338236132,Twins (Twins #1),Johnson Varian,1,12.99,0,12.99,UE,https://www.opendoor-bookstore.com/book/9781338236132,./images/book/9781338236132.jpg,,,GRNO DIV 
+9781524715700,When You Trap a Tiger,Keller Tae,1,16.99,0,16.99,UE,https://www.opendoor-bookstore.com/book/9781524715700,./images/book/9781524715700.jpg,,,HD MYT SOC
+9781536214581,Jasmine Green Rescues: A Duckling Called Button,Peters Helen,1,6.99,0,6.99,LE,https://www.opendoor-bookstore.com/book/9781536214581,./images/book/9781536214581.jpg,,,CH AN DIV
+9781536214598,Jasmine Green Rescues: A Piglet Called Truffle,Peters Helen,1,6.99,0,6.99,LE,https://www.opendoor-bookstore.com/book/9781536214598,./images/book/9781536214598.jpg,,,CH AN DIV
+9781680104677,Little Penguin Rescue,Delahaye Rachel,1,5.99,0,5.99,LE,https://www.opendoor-bookstore.com/book/9781680104677,./images/book/9781680104677.jpg,,,CH AN ACT
+9781534477209,Mia Mayhem and the Super Family Field Day,West Kara,1,5.99,0,5.99,LE,https://www.opendoor-bookstore.com/book/9781534477209,./images/book/9781534477209.jpg,,,CH ACT
+9781338530094,Paws for a Cause: A Branches Book (Diary of a Pug #3),May Kyla,1,4.99,0,4.99,LE,https://www.opendoor-bookstore.com/book/9781338530094,./images/book/9781338530094.jpg,,,CH AN
+9781515872689,Pedro on the Go,Manushkin Fran,1,4.95,0,4.95,LE,https://www.opendoor-bookstore.com/book/9781515872689,./images/book/9781515872689.jpg,,,BE DIV
+9781680104943,Pet Rescue Adventures Collection,Webb Holly,1,19.96,0,19.96,LE,https://www.opendoor-bookstore.com/book/9781680104943,./images/book/9781680104943.jpg,,,CH AN
+9781684125883,Rabbit & Bear: Rabbit's Bad Habits Volume 1,Gough Julian,1,9.99,0,9.99,LE,https://www.opendoor-bookstore.com/book/9781684125883,./images/book/9781684125883.jpg,,,BE SOC
+9781524793647,Rory Branagan: Detective #1,Clover Andrew,1,9.99,0,9.99,LE,https://www.opendoor-bookstore.com/book/9781524793647,./images/book/9781524793647.jpg,,,CH MYST
+9780380709533,Runaway Ralph,Cleary Beverly,1,7.99,0,7.99,LE,https://www.opendoor-bookstore.com/book/9780380709533,./images/book/9780380709533.jpg,,,CH AN ACT
+9781680104769,Sam the Stolen Puppy,Webb Holly,1,5.99,0,5.99,LE,https://www.opendoor-bookstore.com/book/9781680104769,./images/book/9781680104769.jpg,,,CH AN ACT
+9780380709243,The Mouse annd the Motorcycle,Cleary Beverly,1,7.99,0,7.99,LE,https://www.opendoor-bookstore.com/book/9780380709243,./images/book/9780380709243.jpg,,,CH AN VE
+9781680104752,The Mystery Kitten,Webb Holly,1,5.99,0,5.99,LE,https://www.opendoor-bookstore.com/book/9781680104752,./images/book/9781680104752.jpg,,,CH AN
+9781536202229,The Princess in Black and the Giant Problem,Hale Shannon,1,14.99,0,14.99,LE,https://www.opendoor-bookstore.com/book/9781536202229,./images/book/9781536202229.jpg,,,NOV FAN
+9781680104776,The Secret Kitten and Other Tales,Webb Holly,1,10.99,0,10.99,LE,https://www.opendoor-bookstore.com/book/9781680104776,./images/book/9781680104776.jpg,,,CH AN
+9781368053358,Unlimited Squirrels I Want to Sleep Under the Stars!,Willems Mo,1,12.99,0,12.99,LE ,https://www.opendoor-bookstore.com/book/9781368053358,./images/book/9781368053358.jpg,,,CH HD BE AN BED
+9781465485403,Ada Lovelace,Castaldo Nancy F.,1,5.99,0,5.99,RS,https://www.opendoor-bookstore.com/book/9781465485403,./images/book/9781465485403.jpg,,,RE BIG
+9781465479617,Alexander Hamilton,Buckley James,1,5.99,0,5.99,RS,https://www.opendoor-bookstore.com/book/9781465479617,./images/book/9781465479617.jpg,,,RE BIG
+9780753476260,Basher Civics,Basher Simon,1,9.99,0,9.99,RS,https://www.opendoor-bookstore.com/book/9780753476260,./images/book/9780753476260.jpg,,,RE
+9780744021837,Climate Emergency Atlas: What's Happening - What We Can Do,Hooke Dan,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9780744021837,./images/book/9780744021837.jpg,,,SCI RE GEO
+9780440406945,D'Aulaire's Book Of Greek Myths,D'Aulaire Ingri,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9780440406945,./images/book/9780440406945.jpg,,,MYT
+9781580897891,Desert Diary,Tunnell Michael O.,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781580897891,./images/book/9781580897891.jpg,,,RE BIG
+9781465462077,DK Children's Encyclopedia,DK,1,24.99,0,24.99,RS,https://www.opendoor-bookstore.com/book/9781465462077,./images/book/9781465462077.jpg,,,RE
+9781465451729,Eagles & Birds of Prey,Burnie David,1,9.99,0,9.99,RS,https://www.opendoor-bookstore.com/book/9781465451729,./images/book/9781465451729.jpg,,,SCI BIO
+9781908714701,Earth Shattering Events,Jacobs Robin,1,19.95,0,19.95,RS,https://www.opendoor-bookstore.com/book/9781908714701,./images/book/9781908714701.jpg,,,SCI GEO
+9781338359732,Everything Awesome About Sharks and Other Underwater Creatures!,Lowery Mike,1,16.99,0,16.99,RS,https://www.opendoor-bookstore.com/book/9781338359732,./images/book/9781338359732.jpg,,,SCI BIO
+9781682631065,"Fault Lines in the Constitution: The Framers, Their Fights, and the Flaws That Affect Us Today",Levinson Cynthia,1,14.95,0,14.95,RS,https://www.opendoor-bookstore.com/book/9781682631065,./images/book/9781682631065.jpg,,,RE
+9781465491534,Greek Myths,Dorling Kindersley Inc. (Cor),1,21.99,0,21.99,RS,https://www.opendoor-bookstore.com/book/9781465491534,./images/book/9781465491534.jpg,,,MYT
+9781465493033,How to Be a Math Wizard,Imafidon Anne-Marie,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781465493033,./images/book/9781465493033.jpg,,,SCI
+9781465493125,Jesse Owens,Buckley James,1,5.99,0,5.99,RS,https://www.opendoor-bookstore.com/book/9781465493125,./images/book/9781465493125.jpg,,,RE BIG
+9781465479129,Katherine Johnson,Wilkins Ebony Joy,1,5.99,0,5.99,RS,https://www.opendoor-bookstore.com/book/9781465479129,./images/book/9781465479129.jpg,,,RE BIG
+9781465497444,Life Cycles,Dorling Kindersley Inc. (Cor),1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781465497444,./images/book/9781465497444.jpg,,,SCI BIO
+9780744020175,Life Through Time: The 700-Million-Year Story of Life on Earth,Woodward John,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9780744020175,./images/book/9780744020175.jpg,,,SCI GEO
+9781465491466,Mammoth Science,Macaulay David,1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781465491466,./images/book/9781465491466.jpg,,,SCI BIO
+9781728214191,My Very First Cookbook,Kartes Danielle,1,17.99,0,17.99,AH,https://www.opendoor-bookstore.com/book/9781728214191,./images/book/9781728214191.jpg,,,COOK
+9781465486295,Myths Legends and Sacred Stories,Dorling Kindersley Inc. (Cor),1,29.99,0,29.99,RS,https://www.opendoor-bookstore.com/book/9781465486295,./images/book/9781465486295.jpg,,,MYT
+9781912904785,Roman Myths (Volume One),MacDonald Fiona,1,12.95,0,12.95,RS,https://www.opendoor-bookstore.com/book/9781912904785,./images/book/9781912904785.jpg,,,MYT
+9781465445933,Space,Dorling Kindersley Inc. (Cor),1,4.99,0,4.99,RS,https://www.opendoor-bookstore.com/book/9781465445933,./images/book/9781465445933.jpg,,,SCI AST
+9780062572042,Strong Voices,Bolden Tonya,1,21.99,0,21.99,RS,https://www.opendoor-bookstore.com/book/9780062572042,./images/book/9780062572042.jpg,,,RE
+9781465493248,Supersimple Biology,Dorling Kindersley Inc. (Cor),1,21.99,0,21.99,RS,https://www.opendoor-bookstore.com/book/9781465493248,./images/book/9781465493248.jpg,,,SCI CHE
+9781465493231,Supersimple Chemistry,Dorling Kindersley Inc. (Cor),1,21.99,0,21.99,RS,https://www.opendoor-bookstore.com/book/9781465493231,./images/book/9781465493231.jpg,,,SCI BIO
+9781465490964,The Body Atlas: A Pictorial Guide to the Human Body,DK,1,20.00,0,20.00,RS,https://www.opendoor-bookstore.com/book/9781465490964,./images/book/9781465490964.jpg,,,SCI BIO
+9781465499752,The Book of Mythical Beasts and Magical Creatures,Dorling Kindersley Inc. (Cor),1,19.99,0,19.99,RS,https://www.opendoor-bookstore.com/book/9781465499752,./images/book/9781465499752.jpg,,,MYT
+9781465474766,The Dinosaur Book,Woodward John,1,22.99,0,22.99,RS,https://www.opendoor-bookstore.com/book/9781465474766,./images/book/9781465474766.jpg,,,SCI BIO
+9781250756480,The Magical Unicorn Society Official Boxed Set,Phipps Selwyn E.,1,25.98,0,25.98,RS,https://www.opendoor-bookstore.com/book/9781250756480,./images/book/9781250756480.jpg,,,MYT
+9781465450708,The Rock and Gem Book,DK,1,22.99,0,22.99,RS,https://www.opendoor-bookstore.com/book/9781465450708,./images/book/9781465450708.jpg,,,SCI GEO
+9780711249523,The Story Orchestra: Carnival of the Animals,Tickle Jessica Courtney,1,24.99,0,24.99,AH,https://www.opendoor-bookstore.com/book/9780711249523,./images/book/9780711249523.jpg,,,MUS
+9781465482426,"Trees, Leaves, Flowers and Seeds: A Visual Encyclopedia of the Plant Kingdom",DK,1,22.99,0,22.99,RS,https://www.opendoor-bookstore.com/book/9781465482426,./images/book/9781465482426.jpg,,,SCI BIO
+9780374314002,5-Minute Pout-Pout Fish Stories,Diesen Deborah,1,12.99,0,12.99,P,https://www.opendoor-bookstore.com/book/9780374314002,./images/book/9780374314002.jpg,,,HD BED AN
+9781913337018,A Fish Goes Splash!,Channing Margot,1,8.95,0,8.95,P,https://www.opendoor-bookstore.com/book/9781913337018,./images/book/9781913337018.jpg,,,LTF AN 
+9781913337001,A Lion Goes Roar!,Channing Margot,1,8.95,0,8.95,P,https://www.opendoor-bookstore.com/book/9781913337001,./images/book/9781913337001.jpg,,,LTF AN 
+9780063013339,Amelia Bedelia Storybook Favorites #2 (Classic),Parish Herman,1,13.99,0,13.99,P,https://www.opendoor-bookstore.com/book/9780063013339,./images/book/9780063013339.jpg,,,CH BEG
+9781950500260,Baby Encyclopedia,DeAgostini Planeta,1,12.95,0,12.95,P,https://www.opendoor-bookstore.com/book/9781950500260,./images/book/9781950500260.jpg,,,RE BEG
+9781338356342,Be Curious (An Oh Joy! Story),Cho Joy,1,9.99,0,9.99,P,https://www.opendoor-bookstore.com/book/9781338356342,./images/book/9781338356342.jpg,,,LTF
+9781641702492,Courageous First Ladies Who Changed the World,Poelman Heidi,1,9.99,0,9.99,P,https://www.opendoor-bookstore.com/book/9781641702492,./images/book/9781641702492.jpg,,,BIG 
+9788417673567,Federico and All His Families,Hernández Mili,1,9.95,0,9.95,P,https://www.opendoor-bookstore.com/book/9788417673567,./images/book/9788417673567.jpg,,,DIV
+9781452173252,Friends at the Firehouse,Stark Kayla,1,12.99,0,12.99,P,https://www.opendoor-bookstore.com/book/9781452173252,./images/book/9781452173252.jpg,,,LTF
+9781683645733,Good Morning Yoga,Gates Mariam,1,9.99,0,9.99,P,https://www.opendoor-bookstore.com/book/9781683645733,./images/book/9781683645733.jpg,,,SH
+9781536211146,Gustavo the Shy Ghost,Drago Flavia Z.,1,16.99,0,16.99,P,https://www.opendoor-bookstore.com/book/9781536211146,./images/book/9781536211146.jpg,,,PI HO
+9780062868640,Let's Build!,Ward Lindsay,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9780062868640,./images/book/9780062868640.jpg,,,IN VE
+9781338326420,Little Heroes of Color,Heredia David,1,10.99,0,10.99,P,https://www.opendoor-bookstore.com/book/9781338326420,./images/book/9781338326420.jpg,,,DIV
+9781772290288,Mr. Buttonman and the Great Escape,Gebhardt Joelle,1,16.95,0,16.95,P,https://www.opendoor-bookstore.com/book/9781772290288,./images/book/9781772290288.jpg,,,WL HD
+9781536214741,My Favorite Color,Becker Aaron,1,15.99,0,15.99,P,https://www.opendoor-bookstore.com/book/9781536214741,./images/book/9781536214741.jpg,,,IN SCI
+9781684490967,My First Clock Book,Priddy Roger,1,9.99,0,9.99,P,https://www.opendoor-bookstore.com/book/9781684490967,./images/book/9781684490967.jpg,,,IN TIME
+9781641701488,Nita's Day,MacMillan Kathy,1,14.99,0,14.99,P,https://www.opendoor-bookstore.com/book/9781641701488,./images/book/9781641701488.jpg,,,ASL BO
+9780152062873,Stellaluna,Cannon Janell,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9780152062873,./images/book/9780152062873.jpg,,,PI AN DIV
+9781680104646,Ten Little Farm Friends,Litton Jonathan,1,4.99,0,4.99,P,https://www.opendoor-bookstore.com/book/9781680104646,./images/book/9781680104646.jpg,,,COU AN
+9781680104653,Ten Tiny Dinosaurs,Walden Libby,1,4.99,0,4.99,P,https://www.opendoor-bookstore.com/book/9781680104653,./images/book/9781680104653.jpg,,,COU AN
+9781939100429,The Kissing Hand,Penn Audrey,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9781939100429,./images/book/9781939100429.jpg,,,AN SOC
+9780593095676,The Night Before Election Day,Wing Natasha,1,5.99,0,5.99,P,https://www.opendoor-bookstore.com/book/9780593095676,./images/book/9780593095676.jpg,,,PO SOC
+9780807578742,This Is a Sea Cow,Federman Cassandra,1,16.99,0,16.99,P LE,https://www.opendoor-bookstore.com/book/9780807578742,./images/book/9780807578742.jpg,,,AN HD
+9781419741074,What's Up Fire Truck? (A Pop Magic Book),Reinhart Matthew,1,16.99,0,16.99,P,https://www.opendoor-bookstore.com/book/9781419741074,./images/book/9781419741074.jpg,,,IN VE
+9781452170978,Who Loves Books?,Boyd Lizi,1,12.99,0,12.99,P,https://www.opendoor-bookstore.com/book/9781452170978,./images/book/9781452170978.jpg,,,IN BO
+9781946000101,Women Who Changed the World,Fabrizio Alex,1,8.99,0,8.99,P,https://www.opendoor-bookstore.com/book/9781946000101,./images/book/9781946000101.jpg,,,BO DIV
+9781454942115,Your Alien,Sauer Tammi,1,7.95,0,7.95,P,https://www.opendoor-bookstore.com/book/9781454942115,./images/book/9781454942115.jpg,,,BO BED
+9781368023566,Aru Shah and the End of Time (A Pandava Novel Book 1),Chokshi Roshani,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9781368023566,./images/book/9781368023566.jpg,,,NOV MYT
+9780062865458,Bernard Pepperlin,Hoffman Cara,1,7.99,0,7.99,UE M,https://www.opendoor-bookstore.com/book/9780062865458,./images/book/9780062865458.jpg,,,NOV ACT
+9780316493802,Black Brother Black Brother,Rhodes Jewell Parker,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9780316493802,./images/book/9780316493802.jpg,,,NOV DIV
+9781442495012,Blended,Draper Sharon M.,1,8.99,0,8.99,UE M,https://www.opendoor-bookstore.com/book/9781442495012,./images/book/9781442495012.jpg,,,NOV DIV
+9780316451277,CatStronauts: Digital Disaster,Brockington Drew,1,8.99,0,8.99,UE M,https://www.opendoor-bookstore.com/book/9780316451277,./images/book/9780316451277.jpg,,,GRNO
+9780062885500,Class Act,Craft Jerry,1,12.99,0,12.99,UE M,https://www.opendoor-bookstore.com/book/9780062885500,./images/book/9780062885500.jpg,,,NOV DIV
+9781984894717,Doodleville,Sell Chad,1,12.99,0,12.99,UE M,https://www.opendoor-bookstore.com/book/9781984894717,./images/book/9781984894717.jpg,,,GRNO
+9781338666045,Grumpy Unicorn Hits the Road (Grumpy Unicorn Graphic Novel),Spiotto Joey,1,8.99,0,8.99,UE M,https://www.opendoor-bookstore.com/book/9781338666045,./images/book/9781338666045.jpg,,,GRNO
+9781338120943,I Survived the Shark Attacks of 1916 (I Survived Graphic Novel #2): A Graphix Book,Tarshis Lauren,1,10.99,0,10.99,UE M,https://www.opendoor-bookstore.com/book/9781338120943,./images/book/9781338120943.jpg,,,GRNO
+9781534427341,Legacy,Messenger Shannon,1,9.99,0,9.99,UE M,https://www.opendoor-bookstore.com/book/9781534427341,./images/book/9781534427341.jpg,,,NOV ACT FAN
+9781401296377,Lois Lane and the Friendship Challenge,Ellis Grace,1,9.99,0,9.99,UE,https://www.opendoor-bookstore.com/book/9781401296377,./images/book/9781401296377.jpg,,,GRNO
+9781547603619,Revver the Speedway Squirrel,Rinker Sherri Duskey,1,16.99,0,16.99,UE M,https://www.opendoor-bookstore.com/book/9781547603619,./images/book/9781547603619.jpg,,,NOV AN VE 
+9781984894151,Seance Tea Party,Yee Reimena,1,12.99,0,12.99,UE M,https://www.opendoor-bookstore.com/book/9781984894151,./images/book/9781984894151.jpg,,,GRNO HO FAN
+9780451480248,Sky Island,Chu Amy,1,12.99,0,12.99,UE M,https://www.opendoor-bookstore.com/book/9780451480248,./images/book/9780451480248.jpg,,,GRNO MYT
+9781984835345,The Last Kids on Earth and the Skeleton Road,Brallier Max,1,13.99,0,13.99,UE M,https://www.opendoor-bookstore.com/book/9781984835345,./images/book/9781984835345.jpg,,,GRNO
+9780358244417,The Last Last-Day-of-Summer,Giles Lamar,1,7.99,0,7.99,UE,https://www.opendoor-bookstore.com/book/9780358244417,./images/book/9780358244417.jpg,,,NOV DIV FAN
+9781338666229,The Sloth Life: Dream On!,Emerson Joan,1,8.99,0,8.99,LE UE,https://www.opendoor-bookstore.com/book/9781338666229,./images/book/9781338666229.jpg,,,SOC AN 
+9780062946645,Warriors: A Shadow in RiverClan,Hunter Erin,1,12.99,0,12.99,UE,https://www.opendoor-bookstore.com/book/9780062946645,./images/book/9780062946645.jpg,,,GRNO FAN AN
