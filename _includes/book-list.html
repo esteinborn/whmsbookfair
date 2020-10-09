@@ -1,36 +1,74 @@
-<h2 class="display-3 mb-5">{{ page.title }} List</h2>
-<!-- <p>Book Category Filter</p> -->
-<!-- <div class="btn-group btn-group-toggle mb-5" data-toggle="buttons">
-  <label class="btn btn-outline-primary">
-    <input type="radio" class="filter-button" name="options" id="option1" data-filter="all"> All
-  </label>
 {% assign keylist = site.data.key %}
-{% for key in keylist %}
-<label class="btn btn-outline-primary">
-  <input type="radio" class="filter-button" name="options" id="option{{ key.index }}" data-filter="{{ key.KEY }}"> {{ key.Category }}
-</label>
-{% endfor %}
-</div> -->
 
-<!-- <div class="btn-group dropright">
+{% assign booklist = site.data.books | sort: 'title'  %}
+
+{% assign bookkeys = ''|split:'' %}
+
+{% assign splitkeys = ''|split:'' %}
+
+{% assign uniquekeys = ''|split:'' %}
+
+
+{% for abook in booklist %}
+  {% if abook.cat and abook.age contains page.category %}
+  {% assign splitkeys = abook.cat | split: " " %}
+    {% for asplitkey in splitkeys %}
+      {% assign bookkeys = bookkeys|push:asplitkey %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% assign uniquebookkeys = bookkeys | uniq | sort %}
+
+{%- comment -%} <p> {{ uniquebookkeys | inspect }}</p> {%- endcomment -%}
+
+
+
+<h2 class="display-3 mb-5">{{ page.title }} List</h2>
+
+<div class="row">
+<div class="col-md-3">
+<div class="btn-group dropright">
   <button class="btn btn-outline-primary filter-button active" type="button" data-filter="all">All</button>
   <button class="btn btn-outline-primary dropdown-toggle dropdown-toggle-split" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       <span class="sr-only">Toggle Dropdown</span>
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-    {% for key in keylist %}
-    <button class="dropdown-item filter-button" data-filter="{{ key.KEY }}" type="button">{{ key.Category }}</button>
-    {% endfor %}
-  </div>
+  {% for bookkey in uniquebookkeys %}
+  {% for key in keylist %}
+    {% if key.KEY contains bookkey %}
+      <button class="dropdown-item filter-button" data-filter="{{ key.KEY }}" type="button">{{ key.Category }}</button>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+</div>
+</div>
+{%- comment -%}
+  <button type="button" class="btn btn-primary">
+    Animals <span class="badge badge-light">X</span>
+  </button>
+{%- endcomment -%}
 </div>
 
-<button type="button" class="btn btn-primary">
-  Animals <span class="badge badge-light">X</span>
-</button> -->
+</div>
 
+{%- comment -%} <div class="row">
+<div class="col-md-3">
+{% for bookkey in uniquebookkeys %}
+  <p>{{ bookkey }}</p>
+{% endfor %}
+</div>
+<div class="col-md-3">
+{% for abook in booklist %}
+  {% if abook.cat and abook.age contains page.category %}
+  <p>{{ abook.cat }}</p>
+  {% endif %}
+{% endfor %}
+
+</div> {%- endcomment -%}
 
 <div class="row row-cols-1 row-cols-md-4 mt-5">
-{% assign booklist = site.data.books | sort: 'title'  %}
 {% for book in booklist %}
   {% if book.age contains page.category %}
   <div class="col mb-5 book {{ book.cat }} filter">
