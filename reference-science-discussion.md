@@ -2,7 +2,7 @@
 layout: page
 title: Reference & Science Book Discussion
 permalink: /:path/reference-science-discussion.html
-category: AH
+category: RS
 ---
 
 <div class="row">
