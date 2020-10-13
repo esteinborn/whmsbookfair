@@ -2,28 +2,28 @@ links:
 
   - title: Home
     url: ./index.html
-    category: H
+    age: H
 
   - title: Toddler/Primary
     url: ./toddler-primary.html
-    category: P
+    age: P
 
   - title: Lower El
     url: ./lowerel.html
-    category: LE
+    age: LE
 
   - title: Upper El
     url: ./upperel.html
-    category: UE
+    age: UE
 
   - title: Middle School
     url: ./middleschool.html
-    category: M
+    age: M
 
   - title: Activities & Hobbies
     url: ./activity-hobby.html
-    category: AH
+    age: AH
 
   - title: Reference & Science
     url: ./reference-science.html
-    category: RS
+    age: RS

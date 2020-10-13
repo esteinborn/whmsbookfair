@@ -3,6 +3,7 @@ layout: page
 title: Upper Elementary Book Discussion
 permalink: /:path/upperel-discussion.html
 category: UE
+age: UE
 ---
 
 <div class="row">

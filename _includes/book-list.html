@@ -1,87 +1,74 @@
+{%- comment -%} Get the Key list {%- endcomment -%}
 {% assign keylist = site.data.key %}
 
+{%- comment -%} Get the Full Book List {%- endcomment -%}
 {% assign booklist = site.data.books | sort: 'title'  %}
 
-{% assign bookkeys = ''|split:'' %}
-
+{%- comment -%} Temp array of all keys split by spaces {%- endcomment -%}
 {% assign splitkeys = ''|split:'' %}
 
+{%- comment -%} Temp array to host all the keys for books  {%- endcomment -%}
+{% assign bookkeys = ''|split:'' %}
+
+{%- comment -%} split keys fed into unique keys and filtered for unique values only {%- endcomment -%}
 {% assign uniquekeys = ''|split:'' %}
 
-
+{%- comment -%} Loop through book list {%- endcomment -%}
 {% for abook in booklist %}
-  {% if abook.cat and abook.age contains page.category %}
+{%- comment -%} if the book has a category, and it's age group matches the page's age group, continue {%- endcomment -%}
+  {% if abook.cat and abook.age contains page.age %}
+  {%- comment -%} split up the space-separated values of the field {%- endcomment -%}
   {% assign splitkeys = abook.cat | split: " " %}
     {% for asplitkey in splitkeys %}
+    {%- comment -%} Assign each value into the bookkeys array, duplicates fully intact {%- endcomment -%}
       {% assign bookkeys = bookkeys|push:asplitkey %}
     {% endfor %}
   {% endif %}
 {% endfor %}
 
+{%- comment -%} Now that we have bookkeys, lets only grab the unique values, and sort it
+This is what we loop through to produce the filter options {%- endcomment -%}
 {% assign uniquebookkeys = bookkeys | uniq | sort %}
 
-{%- comment -%} <p> {{ uniquebookkeys | inspect }}</p> {%- endcomment -%}
-
-
-
-<h2 class="display-3 mb-5">{{ page.title }} List</h2>
-
-<div class="row">
-<div class="col-md-3">
-<div class="btn-group dropright">
-  <button class="btn btn-outline-primary filter-button active" type="button" data-filter="all">All</button>
-  <button class="btn btn-outline-primary dropdown-toggle dropdown-toggle-split" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <span class="sr-only">Toggle Dropdown</span>
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-  {% for bookkey in uniquebookkeys %}
-  {% for key in keylist %}
-    {% if key.KEY contains bookkey %}
-      <button class="dropdown-item filter-button" data-filter="{{ key.KEY }}" type="button">{{ key.Category }}</button>
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
-</div>
-</div>
-{%- comment -%}
-  <button type="button" class="btn btn-primary">
-    Animals <span class="badge badge-light">X</span>
-  </button>
-{%- endcomment -%}
-</div>
-
-</div>
-
-{%- comment -%} <div class="row">
-<div class="col-md-3">
-{% for bookkey in uniquebookkeys %}
-  <p>{{ bookkey }}</p>
-{% endfor %}
-</div>
-<div class="col-md-3">
-{% for abook in booklist %}
-  {% if abook.cat and abook.age contains page.category %}
-  <p>{{ abook.cat }}</p>
-  {% endif %}
-{% endfor %}
-
-</div> {%- endcomment -%}
-
-<div class="row row-cols-1 row-cols-md-4 mt-5">
-{% for book in booklist %}
-  {% if book.age contains page.category %}
-  <div class="col mb-5 book {{ book.cat }} filter">
-    <div class="card border-secondary shadow-sm h-100">
-      <img src="{{ book.image }}" loading="lazy" class="card-img-top" alt="{{ book.title }}">
-      <div class="card-body">
-        <h5 class="card-title">{{ book.title }}</h5>
-        <p class="card-text">{{ book.author }}</p>
-        <a href="{{ book.link }}" class="stretched-link">${{ book.price }}</a>
+<h2 class="display-4 mb-5">{{ page.title }} List</h2>
+<div class="row justify-content-end">
+  <div class="col text-right">
+    <p><strong>Filter this list:</strong></p>
+    <button type="button" class="active-filter btn btn-lg btn-primary mr-2 invisible"></button>
+    <div class="btn-group book-filter">
+      <div class="btn-group dropleft" role="group">
+        <button class="btn btn-lg btn-outline-primary dropdown-toggle dropdown-toggle-split" type="button" id="book-filter" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <div class="dropdown-menu shadow-lg" aria-labelledby="book-filter">
+          {% for uniquekey in uniquebookkeys %}
+            {% for akey in keylist %}
+              {% if akey.key contains uniquekey %}
+                <button class="dropdown-item filter-button" data-filter="{{ akey.key }}" type="button">{{ akey.category }}</button>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        </div>
       </div>
+      <button class="btn btn-lg btn-outline-primary filter-button active" type="button" data-filter="all">All</button>
     </div>
   </div>
-  {% endif %}
-{% endfor %}
+</div>
+
+<div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 mt-4">
+  {% for book in booklist %}
+    {% if book.age contains page.age %}
+    <div class="col mb-5 book filter {{ book.cat }}">
+      <div class="card border-secondary shadow-sm h-100">
+        <img src="{{ book.image }}" loading="lazy" class="card-img-top" alt="{{ book.title }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ book.title }}</h5>
+          <p class="card-text">{{ book.author }}</p>
+          <a href="{{ book.link }}" class="stretched-link">${{ book.price }}</a>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
 </div>
 

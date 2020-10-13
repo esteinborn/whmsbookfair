@@ -3,6 +3,7 @@ layout: page
 title: Activity & Hobby Book Discussion
 permalink: /:path/activity-hobby-discussion.html
 category: AH
+age: AH
 ---
 
 <div class="row">

@@ -3,6 +3,7 @@ layout: page
 title: Middle School Book Discussion
 permalink: /:path/middleschool-discussion.html
 category: M
+age: M
 ---
 
 <div class="row">

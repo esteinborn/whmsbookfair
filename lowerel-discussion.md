@@ -3,6 +3,7 @@ layout: page
 title: Lower Elementary Book Discussion
 permalink: /:path/lowerel-discussion.html
 category: LE
+age: LE
 ---
 
 <div class="row">

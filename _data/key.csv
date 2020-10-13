@@ -1,7 +1,7 @@
-KEY,Category
+key,category
 ACT,Action/Adventure
 AN,Animals
-ART,ART
+ART,Art
 ASL,American Sign Language
 AST,Astronomy
 AZ,Alphabet
@@ -21,13 +21,14 @@ GEO,Geology and Meteorology
 GRNO,Graphic Novel
 HD,Hard Cover
 HO,Holiday
-HOR,HORROR
+HOR,Horror
 IN,Interactive
 LTF,Lift the Flaps
+MON,Montessori
 MUS,Music
 MYST,Mystery
 MYT,Mythology
-NON,NON FICTION
+NON,Non Fiction
 NOV,Novel
 PI,Picture Book
 PO,Poetry
@@ -35,7 +36,7 @@ RE,Reference
 SCI,Science
 SH,Self Health
 SOC,Social
-SP,SPANISH
+SP,Spanish
 TIME,Time
 VE,Vehicle
 WD,Wordless

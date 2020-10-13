@@ -29,7 +29,7 @@ category: H
 <div class="row row-cols-1 row-cols-md-3">
   <div class="col mb-4">
     <div class="card border-secondary h-100 shadow-sm">
-    <img src="./images/book/9781773213217.jpg" class="card-img-top" alt="Book Thumbnail">
+    <img src="./images/toddler-primary-category-thumb.jpg" class="card-img-top" alt="Book Thumbnail">
       <div class="card-body">
         <h5 class="card-title">Toddler &amp; Primary</h5>
         <a href="./toddler-primary.html" class="btn btn-lg btn-outline-primary stretched-link">View Toddler &amp; Primary Books</a>
@@ -38,7 +38,7 @@ category: H
   </div>
   <div class="col mb-4">
     <div class="card border-secondary h-100 shadow-sm">
-    <img src="./images/book/9781772781533.jpg" class="card-img-top" alt="Book Thumbnail">
+    <img src="./images/lowerel-category-thumb.jpg" class="card-img-top" alt="Book Thumbnail">
       <div class="card-body">
         <h5 class="card-title">Lower Elementary</h5>
         <a href="./lowerel.html" class="btn btn-lg btn-outline-primary stretched-link">View Lower Elementary Books</a>
@@ -47,7 +47,7 @@ category: H
   </div>
   <div class="col mb-4">
     <div class="card border-secondary h-100 shadow-sm">
-    <img src="./images/book/9781423141891.jpg" class="card-img-top" alt="Book Thumbnail">
+    <img src="./images/upperel-category-thumb.jpg" class="card-img-top" alt="Book Thumbnail">
       <div class="card-body">
         <h5 class="card-title">Upper Elementary</h5>
         <a href="./upperel.html" class="btn btn-lg btn-outline-primary stretched-link">View Upper Elementary Books</a>
@@ -56,7 +56,7 @@ category: H
   </div>
   <div class="col mb-4">
     <div class="card border-secondary h-100 shadow-sm">
-    <img src="./images/book/9781984837356.jpg" class="card-img-top" alt="Book Thumbnail">
+    <img src="./images/middleschool-category-thumb.jpg" class="card-img-top" alt="Book Thumbnail">
       <div class="card-body">
         <h5 class="card-title">Middle School</h5>
         <a href="./middleschool.html" class="btn btn-lg btn-outline-primary stretched-link">View Middle School Books</a>
@@ -65,7 +65,7 @@ category: H
   </div>
   <div class="col mb-4">
     <div class="card border-secondary h-100 shadow-sm">
-    <img src="./images/book/9781465489654.jpg" class="card-img-top" alt="Book Thumbnail">
+    <img src="./images/activity-hobby-category-thumb.jpg" class="card-img-top" alt="Book Thumbnail">
       <div class="card-body">
         <h5 class="card-title">Activities &amp; Hobbies</h5>
         <a href="./activity-hobby.html" class="btn btn-lg btn-outline-primary stretched-link">View Activity &amp; Hobby Books</a>
@@ -74,9 +74,9 @@ category: H
   </div>
   <div class="col mb-4">
     <div class="card border-secondary h-100 shadow-sm">
-    <img src="./images/book/9781782858331.jpg" class="card-img-top" alt="Book Thumbnail">
+    <img src="./images/reference-science-category-thumb.jpg" class="card-img-top" alt="Book Thumbnail">
       <div class="card-body">
-        <h5 class="card-title">Research &amp; Science</h5>
+        <h5 class="card-title">Reference &amp; Science</h5>
         <a href="./reference-science.html" class="btn btn-lg btn-outline-primary stretched-link">View Reference &amp; Science Books</a>
       </div>
     </div>

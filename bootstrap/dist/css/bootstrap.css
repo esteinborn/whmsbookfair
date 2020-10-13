@@ -173,13 +173,13 @@ sup {
 }
 
 a {
-  color: #b20838;
+  color: #0055AA;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #690521;
+  color: #002f5e;
   text-decoration: underline;
 }
 
@@ -436,7 +436,7 @@ h6, .h6 {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .display-1 {
@@ -3169,12 +3169,12 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #b20838;
+  color: #0055AA;
   text-decoration: none;
 }
 
 .btn-link:hover {
-  color: #690521;
+  color: #002f5e;
   text-decoration: underline;
 }
 
@@ -5085,14 +5085,14 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #b20838;
+  color: #0055AA;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
 
 .page-link:hover {
   z-index: 2;
-  color: #690521;
+  color: #002f5e;
   text-decoration: none;
   background-color: #f5f6fa;
   border-color: #dee2e6;
