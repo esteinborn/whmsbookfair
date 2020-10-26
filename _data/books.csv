@@ -83,7 +83,7 @@ Product Number,title,author,Total Qty Ordered,price,Discount,Total Amount,age,li
 9781646860623,A Gift for Amma,Sriram  Meera,1,8.99,0,8.99,P LE,https://www.opendoor-bookstore.com/book/9781646860623,./images/book/9781646860623.jpg,,yes,DIV SOC PI
 9781481449946,And Tango Makes Three,Richardson  Justin,1,9.99,0,9.99,P LE,https://www.opendoor-bookstore.com/book/9781481449946,./images/book/9781481449946.jpg,,,NON AN IN PI 
 9780358252108,Becoming a Good Creature,Montgomery  Sy,1,17.99,0,17.99,P LE,https://www.opendoor-bookstore.com/book/9780358252108,./images/book/9780358252108.jpg,,yes,PI AN HD SOC
-9780062499615,Cece Loves Science,Derting  Kimberly,1,7.99,0,7.99,P LE,https://www.opendoor-bookstore.com/book/9780062499615,./images/book/9780062499615.jpg,,yes,PI SCI 
+,,,,,,,,,,,,
 9781554533541,Chester's Masterpiece,Watt  Melanie,1,8.99,0,8.99,P LE,https://www.opendoor-bookstore.com/book/9781554533541,./images/book/9781554533541.jpg,,,AN PI 
 9780316562577,Don't Touch My Hair!,Miller  Sharee,1,7.99,0,7.99,P LE,https://www.opendoor-bookstore.com/book/9780316562577,./images/book/9780316562577.jpg,,yes,SOC DIV PI
 9780593115350,Grandma's Gardens,Clinton  Hillary Rodham,1,18.99,0,18.99,P LE,https://www.opendoor-bookstore.com/book/9780593115350,./images/book/9780593115350.jpg,,,HD PI BIG SOC NON
@@ -309,3 +309,4 @@ Product Number,title,author,Total Qty Ordered,price,Discount,Total Amount,age,li
 9781984851598,The Magic Fish,Nguyen Trung Le,1,16.99,0,16.99,M,https://www.opendoor-bookstore.com/book/9781984851598,./images/book/9781984851598.jpg,,YES,GRNO SOC DIV
 9780823447251,The Reluctant Dragon,Grahame Kenneth,1,17.99,0,17.99,LE,https://www.opendoor-bookstore.com/book/9780823447251,./images/book/9780823447251.jpg,,YES,HD FAN SOC CH CL
 9781760360993,The Snow Fox,Shojaie Rosemary,1,16.95,0,16.95,P LE,https://www.opendoor-bookstore.com/book/9781760360993,./images/book/9781760360993.jpg,,YES,HD PI AN SOC
+9780803740167,Roller Girl, Victoria Jamieson,,12.99,,,UE M,https://www.opendoor-bookstore.com/book/9780803740167,./images/book/9780803740167.jpg,,,GRNO SOC
